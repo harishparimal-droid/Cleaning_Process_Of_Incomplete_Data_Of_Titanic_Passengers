@@ -1,0 +1,892 @@
+Passenger_ID,Survival_Status,Passenger_Class,Full_Name,Gender,Age_Years,Sibling_Spouse_Count,Parent_Child_Count,Fare_Price,Cabin_Number,Embarked_Town,Cabin_Number_Filled
+1,Not Survived,3rd,"Braund, Mr. Owen Harris",male,22.0,1,0,7.25,,Southampton,C85
+2,Survived,1st,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,0,71.2833,C85,Cherbourg,C85
+3,Survived,3rd,"Heikkinen, Miss. Laina",female,26.0,0,0,7.925,,Southampton,B28
+4,Survived,1st,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1,0,53.1,C123,Southampton,C123
+5,Not Survived,3rd,"Allen, Mr. William Henry",male,35.0,0,0,8.05,,Southampton,E24
+6,Not Survived,3rd,"Moran, Mr. James",male,28.0,0,0,8.4583,,Queenstown,D10
+7,Not Survived,1st,"McCarthy, Mr. Timothy J",male,54.0,0,0,51.8625,E46,Southampton,E46
+8,Not Survived,3rd,"Palsson, Master. Gosta Leonard",male,2.0,3,1,21.075,,Southampton,A5
+9,Survived,3rd,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,0,2,11.1333,,Southampton,F33
+10,Survived,2nd,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,1,0,30.0708,,Cherbourg,G6
+11,Survived,3rd,"Sandstrom, Miss. Marguerite Rut",female,4.0,1,1,16.7,G6,Southampton,G6
+12,Survived,1st,"Bonnell, Miss. Elizabeth",female,58.0,0,0,26.55,C103,Southampton,C103
+13,Not Survived,3rd,"Saundercock, Mr. William Henry",male,20.0,0,0,8.05,,Southampton,B57
+14,Not Survived,3rd,"Andersson, Mr. Anders Johan",male,39.0,1,5,31.275,,Southampton,C123
+15,Not Survived,3rd,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0,0,0,7.8542,,Southampton,E46
+16,Survived,2nd,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,0,0,16.0,,Southampton,C85
+17,Not Survived,3rd,"Rice, Master. Eugene",male,2.0,4,1,29.125,,Queenstown,B28
+18,Survived,2nd,"Williams, Mr. Charles Eugene",male,28.0,0,0,13.0,,Southampton,E24
+19,Not Survived,3rd,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,1,0,18.0,,Southampton,D10
+20,Survived,3rd,"Masselmani, Mrs. Fatima",female,28.0,0,0,7.225,,Cherbourg,A5
+21,Not Survived,2nd,"Fynney, Mr. Joseph J",male,35.0,0,0,26.0,,Southampton,F33
+22,Survived,2nd,"Beesley, Mr. Lawrence",male,34.0,0,0,13.0,D56,Southampton,D56
+23,Survived,3rd,"McGowan, Miss. Anna ""Annie""",female,15.0,0,0,8.0292,,Queenstown,G6
+24,Survived,1st,"Sloper, Mr. William Thompson",male,28.0,0,0,35.5,A6,Southampton,A6
+25,Not Survived,3rd,"Palsson, Miss. Torborg Danira",female,8.0,3,1,21.075,,Southampton,B57
+26,Survived,3rd,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,1,5,31.3875,,Southampton,C123
+27,Not Survived,3rd,"Emir, Mr. Farred Chehab",male,28.0,0,0,7.225,,Cherbourg,E46
+28,Not Survived,1st,"Fortune, Mr. Charles Alexander",male,19.0,3,2,263.0,C23 C25 C27,Southampton,C23 C25 C27
+29,Survived,3rd,"O'Dwyer, Miss. Ellen ""Nellie""",female,28.0,0,0,7.8792,,Queenstown,C85
+30,Not Survived,3rd,"Todoroff, Mr. Lalio",male,28.0,0,0,7.8958,,Southampton,B28
+31,Not Survived,1st,"Uruchurtu, Don. Manuel E",male,40.0,0,0,27.7208,,Cherbourg,E24
+32,Survived,1st,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,28.0,1,0,146.5208,B78,Cherbourg,B78
+33,Survived,3rd,"Glynn, Miss. Mary Agatha",female,28.0,0,0,7.75,,Queenstown,D10
+34,Not Survived,2nd,"Wheadon, Mr. Edward H",male,66.0,0,0,10.5,,Southampton,A5
+35,Not Survived,1st,"Meyer, Mr. Edgar Joseph",male,28.0,1,0,82.1708,,Cherbourg,F33
+36,Not Survived,1st,"Holverson, Mr. Alexander Oskar",male,42.0,1,0,52.0,,Southampton,G6
+37,Survived,3rd,"Mamee, Mr. Hanna",male,28.0,0,0,7.2292,,Cherbourg,B57
+38,Not Survived,3rd,"Cann, Mr. Ernest Charles",male,21.0,0,0,8.05,,Southampton,C123
+39,Not Survived,3rd,"Vander Planke, Miss. Augusta Maria",female,18.0,2,0,18.0,,Southampton,E46
+40,Survived,3rd,"Nicola-Yarred, Miss. Jamila",female,14.0,1,0,11.2417,,Cherbourg,C85
+41,Not Survived,3rd,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,1,0,9.475,,Southampton,B28
+42,Not Survived,2nd,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,1,0,21.0,,Southampton,E24
+43,Not Survived,3rd,"Kraeff, Mr. Theodor",male,28.0,0,0,7.8958,,Cherbourg,D10
+44,Survived,2nd,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,1,2,41.5792,,Cherbourg,A5
+45,Survived,3rd,"Devaney, Miss. Margaret Delia",female,19.0,0,0,7.8792,,Queenstown,F33
+46,Not Survived,3rd,"Rogers, Mr. William John",male,28.0,0,0,8.05,,Southampton,G6
+47,Not Survived,3rd,"Lennon, Mr. Denis",male,28.0,1,0,15.5,,Queenstown,B57
+48,Survived,3rd,"O'Driscoll, Miss. Bridget",female,28.0,0,0,7.75,,Queenstown,C123
+49,Not Survived,3rd,"Samaan, Mr. Youssef",male,28.0,2,0,21.6792,,Cherbourg,E46
+50,Not Survived,3rd,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,1,0,17.8,,Southampton,C85
+51,Not Survived,3rd,"Panula, Master. Juha Niilo",male,7.0,4,1,39.6875,,Southampton,B28
+52,Not Survived,3rd,"Nosworthy, Mr. Richard Cater",male,21.0,0,0,7.8,,Southampton,E24
+53,Survived,1st,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1,0,76.7292,D33,Cherbourg,D33
+54,Survived,2nd,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,1,0,26.0,,Southampton,D10
+55,Not Survived,1st,"Ostby, Mr. Engelhart Cornelius",male,65.0,0,1,61.9792,B30,Cherbourg,B30
+56,Survived,1st,"Woolner, Mr. Hugh",male,28.0,0,0,35.5,C52,Southampton,C52
+57,Survived,2nd,"Rugg, Miss. Emily",female,21.0,0,0,10.5,,Southampton,A5
+58,Not Survived,3rd,"Novel, Mr. Mansouer",male,28.5,0,0,7.2292,,Cherbourg,F33
+59,Survived,2nd,"West, Miss. Constance Mirium",female,5.0,1,2,27.75,,Southampton,G6
+60,Not Survived,3rd,"Goodwin, Master. William Frederick",male,11.0,5,2,46.9,,Southampton,B57
+61,Not Survived,3rd,"Sirayanian, Mr. Orsen",male,22.0,0,0,7.2292,,Cherbourg,C123
+62,Survived,1st,"Icard, Miss. Amelie",female,38.0,0,0,80.0,B28,Southampton,B28
+63,Not Survived,1st,"Harris, Mr. Henry Birkhardt",male,45.0,1,0,83.475,C83,Southampton,C83
+64,Not Survived,3rd,"Skoog, Master. Harald",male,4.0,3,2,27.9,,Southampton,E46
+65,Not Survived,1st,"Stewart, Mr. Albert A",male,28.0,0,0,27.7208,,Cherbourg,C85
+66,Survived,3rd,"Moubarek, Master. Gerios",male,28.0,1,1,15.2458,,Cherbourg,B28
+67,Survived,2nd,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,0,0,10.5,F33,Southampton,F33
+68,Not Survived,3rd,"Crease, Mr. Ernest James",male,19.0,0,0,8.1583,,Southampton,E24
+69,Survived,3rd,"Andersson, Miss. Erna Alexandra",female,17.0,4,2,7.925,,Southampton,D10
+70,Not Survived,3rd,"Kink, Mr. Vincenz",male,26.0,2,0,8.6625,,Southampton,A5
+71,Not Survived,2nd,"Jenkin, Mr. Stephen Curnow",male,32.0,0,0,10.5,,Southampton,F33
+72,Not Survived,3rd,"Goodwin, Miss. Lillian Amy",female,16.0,5,2,46.9,,Southampton,G6
+73,Not Survived,2nd,"Hood, Mr. Ambrose Jr",male,21.0,0,0,73.5,,Southampton,B57
+74,Not Survived,3rd,"Chronopoulos, Mr. Apostolos",male,26.0,1,0,14.4542,,Cherbourg,C123
+75,Survived,3rd,"Bing, Mr. Lee",male,32.0,0,0,56.4958,,Southampton,E46
+76,Not Survived,3rd,"Moen, Mr. Sigurd Hansen",male,25.0,0,0,7.65,F G73,Southampton,F G73
+77,Not Survived,3rd,"Staneff, Mr. Ivan",male,28.0,0,0,7.8958,,Southampton,C85
+78,Not Survived,3rd,"Moutal, Mr. Rahamin Haim",male,28.0,0,0,8.05,,Southampton,B28
+79,Survived,2nd,"Caldwell, Master. Alden Gates",male,0.83,0,2,29.0,,Southampton,E24
+80,Survived,3rd,"Dowdell, Miss. Elizabeth",female,30.0,0,0,12.475,,Southampton,D10
+81,Not Survived,3rd,"Waelens, Mr. Achille",male,22.0,0,0,9.0,,Southampton,A5
+82,Survived,3rd,"Sheerlinck, Mr. Jan Baptist",male,29.0,0,0,9.5,,Southampton,F33
+83,Survived,3rd,"McDermott, Miss. Brigdet Delia",female,28.0,0,0,7.7875,,Queenstown,G6
+84,Not Survived,1st,"Carrau, Mr. Francisco M",male,28.0,0,0,47.1,,Southampton,B57
+85,Survived,2nd,"Ilett, Miss. Bertha",female,17.0,0,0,10.5,,Southampton,C123
+86,Survived,3rd,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,3,0,15.85,,Southampton,E46
+87,Not Survived,3rd,"Ford, Mr. William Neal",male,16.0,1,3,34.375,,Southampton,C85
+88,Not Survived,3rd,"Slocovski, Mr. Selman Francis",male,28.0,0,0,8.05,,Southampton,B28
+89,Survived,1st,"Fortune, Miss. Mabel Helen",female,23.0,3,2,263.0,C23 C25 C27,Southampton,C23 C25 C27
+90,Not Survived,3rd,"Celotti, Mr. Francesco",male,24.0,0,0,8.05,,Southampton,E24
+91,Not Survived,3rd,"Christmann, Mr. Emil",male,29.0,0,0,8.05,,Southampton,D10
+92,Not Survived,3rd,"Andreasson, Mr. Paul Edvin",male,20.0,0,0,7.8542,,Southampton,A5
+93,Not Survived,1st,"Chaffee, Mr. Herbert Fuller",male,46.0,1,0,61.175,E31,Southampton,E31
+94,Not Survived,3rd,"Dean, Mr. Bertram Frank",male,26.0,1,2,20.575,,Southampton,F33
+95,Not Survived,3rd,"Coxon, Mr. Daniel",male,59.0,0,0,7.25,,Southampton,G6
+96,Not Survived,3rd,"Shorney, Mr. Charles Joseph",male,28.0,0,0,8.05,,Southampton,B57
+97,Not Survived,1st,"Goldschmidt, Mr. George B",male,71.0,0,0,34.6542,A5,Cherbourg,A5
+98,Survived,1st,"Greenfield, Mr. William Bertram",male,23.0,0,1,63.3583,D10 D12,Cherbourg,D10 D12
+99,Survived,2nd,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0,0,1,23.0,,Southampton,C123
+100,Not Survived,2nd,"Kantor, Mr. Sinai",male,34.0,1,0,26.0,,Southampton,E46
+101,Not Survived,3rd,"Petranec, Miss. Matilda",female,28.0,0,0,7.8958,,Southampton,C85
+102,Not Survived,3rd,"Petroff, Mr. Pastcho (""Pentcho"")",male,28.0,0,0,7.8958,,Southampton,B28
+103,Not Survived,1st,"White, Mr. Richard Frasar",male,21.0,0,1,77.2875,D26,Southampton,D26
+104,Not Survived,3rd,"Johansson, Mr. Gustaf Joel",male,33.0,0,0,8.6542,,Southampton,E24
+105,Not Survived,3rd,"Gustafsson, Mr. Anders Vilhelm",male,37.0,2,0,7.925,,Southampton,D10
+106,Not Survived,3rd,"Mionoff, Mr. Stoytcho",male,28.0,0,0,7.8958,,Southampton,A5
+107,Survived,3rd,"Salkjelsvik, Miss. Anna Kristine",female,21.0,0,0,7.65,,Southampton,F33
+108,Survived,3rd,"Moss, Mr. Albert Johan",male,28.0,0,0,7.775,,Southampton,G6
+109,Not Survived,3rd,"Rekic, Mr. Tido",male,38.0,0,0,7.8958,,Southampton,B57
+110,Survived,3rd,"Moran, Miss. Bertha",female,28.0,1,0,24.15,,Queenstown,C123
+111,Not Survived,1st,"Porter, Mr. Walter Chamberlain",male,47.0,0,0,52.0,C110,Southampton,C110
+112,Not Survived,3rd,"Zabour, Miss. Hileni",female,14.5,1,0,14.4542,,Cherbourg,E46
+113,Not Survived,3rd,"Barton, Mr. David John",male,22.0,0,0,8.05,,Southampton,C85
+114,Not Survived,3rd,"Jussila, Miss. Katriina",female,20.0,1,0,9.825,,Southampton,B28
+115,Not Survived,3rd,"Attalah, Miss. Malake",female,17.0,0,0,14.4583,,Cherbourg,E24
+116,Not Survived,3rd,"Pekoniemi, Mr. Edvard",male,21.0,0,0,7.925,,Southampton,D10
+117,Not Survived,3rd,"Connors, Mr. Patrick",male,70.5,0,0,7.75,,Queenstown,A5
+118,Not Survived,2nd,"Turpin, Mr. William John Robert",male,29.0,1,0,21.0,,Southampton,F33
+119,Not Survived,1st,"Baxter, Mr. Quigg Edmond",male,24.0,0,1,247.5208,B58 B60,Cherbourg,B58 B60
+120,Not Survived,3rd,"Andersson, Miss. Ellis Anna Maria",female,2.0,4,2,31.275,,Southampton,G6
+121,Not Survived,2nd,"Hickman, Mr. Stanley George",male,21.0,2,0,73.5,,Southampton,B57
+122,Not Survived,3rd,"Moore, Mr. Leonard Charles",male,28.0,0,0,8.05,,Southampton,C123
+123,Not Survived,2nd,"Nasser, Mr. Nicholas",male,32.5,1,0,30.0708,,Cherbourg,E46
+124,Survived,2nd,"Webber, Miss. Susan",female,32.5,0,0,13.0,E101,Southampton,E101
+125,Not Survived,1st,"White, Mr. Percival Wayland",male,54.0,0,1,77.2875,D26,Southampton,D26
+126,Survived,3rd,"Nicola-Yarred, Master. Elias",male,12.0,1,0,11.2417,,Cherbourg,C85
+127,Not Survived,3rd,"McMahon, Mr. Martin",male,28.0,0,0,7.75,,Queenstown,B28
+128,Survived,3rd,"Madsen, Mr. Fridtjof Arne",male,24.0,0,0,7.1417,,Southampton,E24
+129,Survived,3rd,"Peter, Miss. Anna",female,28.0,1,1,22.3583,F E69,Cherbourg,F E69
+130,Not Survived,3rd,"Ekstrom, Mr. Johan",male,45.0,0,0,6.975,,Southampton,D10
+131,Not Survived,3rd,"Drazenoic, Mr. Jozef",male,33.0,0,0,7.8958,,Cherbourg,A5
+132,Not Survived,3rd,"Coelho, Mr. Domingos Fernandeo",male,20.0,0,0,7.05,,Southampton,F33
+133,Not Survived,3rd,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47.0,1,0,14.5,,Southampton,G6
+134,Survived,2nd,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,1,0,26.0,,Southampton,B57
+135,Not Survived,2nd,"Sobey, Mr. Samuel James Hayden",male,25.0,0,0,13.0,,Southampton,C123
+136,Not Survived,2nd,"Richard, Mr. Emile",male,23.0,0,0,15.0458,,Cherbourg,E46
+137,Survived,1st,"Newsom, Miss. Helen Monypeny",female,19.0,0,2,26.2833,D47,Southampton,D47
+138,Not Survived,1st,"Futrelle, Mr. Jacques Heath",male,37.0,1,0,53.1,C123,Southampton,C123
+139,Not Survived,3rd,"Osen, Mr. Olaf Elon",male,16.0,0,0,9.2167,,Southampton,C85
+140,Not Survived,1st,"Giglio, Mr. Victor",male,24.0,0,0,79.2,B86,Cherbourg,B86
+141,Not Survived,3rd,"Boulos, Mrs. Joseph (Sultana)",female,28.0,0,2,15.2458,,Cherbourg,B28
+142,Survived,3rd,"Nysten, Miss. Anna Sofia",female,22.0,0,0,7.75,,Southampton,E24
+143,Survived,3rd,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,1,0,15.85,,Southampton,D10
+144,Not Survived,3rd,"Burke, Mr. Jeremiah",male,19.0,0,0,6.75,,Queenstown,A5
+145,Not Survived,2nd,"Andrew, Mr. Edgardo Samuel",male,18.0,0,0,11.5,,Southampton,F33
+146,Not Survived,2nd,"Nicholls, Mr. Joseph Charles",male,19.0,1,1,36.75,,Southampton,G6
+147,Survived,3rd,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27.0,0,0,7.7958,,Southampton,B57
+148,Not Survived,3rd,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,2,2,34.375,,Southampton,C123
+149,Not Survived,2nd,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,0,2,26.0,F2,Southampton,F2
+150,Not Survived,2nd,"Byles, Rev. Thomas Roussel Davids",male,42.0,0,0,13.0,,Southampton,E46
+151,Not Survived,2nd,"Bateman, Rev. Robert James",male,51.0,0,0,12.525,,Southampton,C85
+152,Survived,1st,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1,0,66.6,C2,Southampton,C2
+153,Not Survived,3rd,"Meo, Mr. Alfonzo",male,55.5,0,0,8.05,,Southampton,B28
+154,Not Survived,3rd,"van Billiard, Mr. Austin Blyler",male,40.5,0,2,14.5,,Southampton,E24
+155,Not Survived,3rd,"Olsen, Mr. Ole Martin",male,28.0,0,0,7.3125,,Southampton,D10
+156,Not Survived,1st,"Williams, Mr. Charles Duane",male,51.0,0,1,61.3792,,Cherbourg,A5
+157,Survived,3rd,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,0,0,7.7333,,Queenstown,F33
+158,Not Survived,3rd,"Corn, Mr. Harry",male,30.0,0,0,8.05,,Southampton,G6
+159,Not Survived,3rd,"Smiljanic, Mr. Mile",male,28.0,0,0,8.6625,,Southampton,B57
+160,Not Survived,3rd,"Sage, Master. Thomas Henry",male,28.0,8,2,69.55,,Southampton,C123
+161,Not Survived,3rd,"Cribb, Mr. John Hatfield",male,44.0,0,1,16.1,,Southampton,E46
+162,Survived,2nd,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40.0,0,0,15.75,,Southampton,C85
+163,Not Survived,3rd,"Bengtsson, Mr. John Viktor",male,26.0,0,0,7.775,,Southampton,B28
+164,Not Survived,3rd,"Calic, Mr. Jovo",male,17.0,0,0,8.6625,,Southampton,E24
+165,Not Survived,3rd,"Panula, Master. Eino Viljami",male,1.0,4,1,39.6875,,Southampton,D10
+166,Survived,3rd,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,0,2,20.525,,Southampton,A5
+167,Survived,1st,"Chibnall, Mrs. (Edith Martha Bowerman)",female,28.0,0,1,55.0,E33,Southampton,E33
+168,Not Survived,3rd,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45.0,1,4,27.9,,Southampton,F33
+169,Not Survived,1st,"Baumann, Mr. John D",male,28.0,0,0,25.925,,Southampton,G6
+170,Not Survived,3rd,"Ling, Mr. Lee",male,28.0,0,0,56.4958,,Southampton,B57
+171,Not Survived,1st,"Van der hoef, Mr. Wyckoff",male,61.0,0,0,33.5,B19,Southampton,B19
+172,Not Survived,3rd,"Rice, Master. Arthur",male,4.0,4,1,29.125,,Queenstown,C123
+173,Survived,3rd,"Johnson, Miss. Eleanor Ileen",female,1.0,1,1,11.1333,,Southampton,E46
+174,Not Survived,3rd,"Sivola, Mr. Antti Wilhelm",male,21.0,0,0,7.925,,Southampton,C85
+175,Not Survived,1st,"Smith, Mr. James Clinch",male,56.0,0,0,30.6958,A7,Cherbourg,A7
+176,Not Survived,3rd,"Klasen, Mr. Klas Albin",male,18.0,1,1,7.8542,,Southampton,B28
+177,Not Survived,3rd,"Lefebre, Master. Henry Forbes",male,28.0,3,1,25.4667,,Southampton,E24
+178,Not Survived,1st,"Isham, Miss. Ann Elizabeth",female,50.0,0,0,28.7125,C49,Cherbourg,C49
+179,Not Survived,2nd,"Hale, Mr. Reginald",male,30.0,0,0,13.0,,Southampton,D10
+180,Not Survived,3rd,"Leonard, Mr. Lionel",male,36.0,0,0,0.0,,Southampton,A5
+181,Not Survived,3rd,"Sage, Miss. Constance Gladys",female,28.0,8,2,69.55,,Southampton,F33
+182,Not Survived,2nd,"Pernot, Mr. Rene",male,28.0,0,0,15.05,,Cherbourg,G6
+183,Not Survived,3rd,"Asplund, Master. Clarence Gustaf Hugo",male,9.0,4,2,31.3875,,Southampton,B57
+184,Survived,2nd,"Becker, Master. Richard F",male,1.0,2,1,39.0,F4,Southampton,F4
+185,Survived,3rd,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,0,2,22.025,,Southampton,C123
+186,Not Survived,1st,"Rood, Mr. Hugh Roscoe",male,28.0,0,0,50.0,A32,Southampton,A32
+187,Survived,3rd,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,28.0,1,0,15.5,,Queenstown,E46
+188,Survived,1st,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0,0,0,26.55,,Southampton,C85
+189,Not Survived,3rd,"Bourke, Mr. John",male,40.0,1,1,15.5,,Queenstown,B28
+190,Not Survived,3rd,"Turcin, Mr. Stjepan",male,36.0,0,0,7.8958,,Southampton,E24
+191,Survived,2nd,"Pinsky, Mrs. (Rosa)",female,32.0,0,0,13.0,,Southampton,D10
+192,Not Survived,2nd,"Carbines, Mr. William",male,19.0,0,0,13.0,,Southampton,A5
+193,Survived,3rd,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19.0,1,0,7.8542,,Southampton,F33
+194,Survived,2nd,"Navratil, Master. Michel M",male,3.0,1,1,26.0,F2,Southampton,F2
+195,Survived,1st,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,0,0,27.7208,B4,Cherbourg,B4
+196,Survived,1st,"Lurette, Miss. Elise",female,58.0,0,0,146.5208,B80,Cherbourg,B80
+197,Not Survived,3rd,"Mernagh, Mr. Robert",male,28.0,0,0,7.75,,Queenstown,G6
+198,Not Survived,3rd,"Olsen, Mr. Karl Siegwart Andreas",male,42.0,0,1,8.4042,,Southampton,B57
+199,Survived,3rd,"Madigan, Miss. Margaret ""Maggie""",female,28.0,0,0,7.75,,Queenstown,C123
+200,Not Survived,2nd,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24.0,0,0,13.0,,Southampton,E46
+201,Not Survived,3rd,"Vande Walle, Mr. Nestor Cyriel",male,28.0,0,0,9.5,,Southampton,C85
+202,Not Survived,3rd,"Sage, Mr. Frederick",male,28.0,8,2,69.55,,Southampton,B28
+203,Not Survived,3rd,"Johanson, Mr. Jakob Alfred",male,34.0,0,0,6.4958,,Southampton,E24
+204,Not Survived,3rd,"Youseff, Mr. Gerious",male,45.5,0,0,7.225,,Cherbourg,D10
+205,Survived,3rd,"Cohen, Mr. Gurshon ""Gus""",male,18.0,0,0,8.05,,Southampton,A5
+206,Not Survived,3rd,"Strom, Miss. Telma Matilda",female,2.0,0,1,10.4625,G6,Southampton,G6
+207,Not Survived,3rd,"Backstrom, Mr. Karl Alfred",male,32.0,1,0,15.85,,Southampton,F33
+208,Survived,3rd,"Albimona, Mr. Nassef Cassem",male,26.0,0,0,18.7875,,Cherbourg,G6
+209,Survived,3rd,"Carr, Miss. Helen ""Ellen""",female,16.0,0,0,7.75,,Queenstown,B57
+210,Survived,1st,"Blank, Mr. Henry",male,40.0,0,0,31.0,A31,Cherbourg,A31
+211,Not Survived,3rd,"Ali, Mr. Ahmed",male,24.0,0,0,7.05,,Southampton,C123
+212,Survived,2nd,"Cameron, Miss. Clear Annie",female,35.0,0,0,21.0,,Southampton,E46
+213,Not Survived,3rd,"Perkin, Mr. John Henry",male,22.0,0,0,7.25,,Southampton,C85
+214,Not Survived,2nd,"Givard, Mr. Hans Kristensen",male,30.0,0,0,13.0,,Southampton,B28
+215,Not Survived,3rd,"Kiernan, Mr. Philip",male,28.0,1,0,7.75,,Queenstown,E24
+216,Survived,1st,"Newell, Miss. Madeleine",female,31.0,1,0,113.275,D36,Cherbourg,D36
+217,Survived,3rd,"Honkanen, Miss. Eliina",female,27.0,0,0,7.925,,Southampton,D10
+218,Not Survived,2nd,"Jacobsohn, Mr. Sidney Samuel",male,42.0,1,0,27.0,,Southampton,A5
+219,Survived,1st,"Bazzani, Miss. Albina",female,32.0,0,0,76.2917,D15,Cherbourg,D15
+220,Not Survived,2nd,"Harris, Mr. Walter",male,30.0,0,0,10.5,,Southampton,F33
+221,Survived,3rd,"Sunderland, Mr. Victor Francis",male,16.0,0,0,8.05,,Southampton,G6
+222,Not Survived,2nd,"Bracken, Mr. James H",male,27.0,0,0,13.0,,Southampton,B57
+223,Not Survived,3rd,"Green, Mr. George Henry",male,51.0,0,0,8.05,,Southampton,C123
+224,Not Survived,3rd,"Nenkoff, Mr. Christo",male,28.0,0,0,7.8958,,Southampton,E46
+225,Survived,1st,"Hoyt, Mr. Frederick Maxfield",male,38.0,1,0,90.0,C93,Southampton,C93
+226,Not Survived,3rd,"Berglund, Mr. Karl Ivar Sven",male,22.0,0,0,9.35,,Southampton,C85
+227,Survived,2nd,"Mellors, Mr. William John",male,19.0,0,0,10.5,,Southampton,B28
+228,Not Survived,3rd,"Lovell, Mr. John Hall (""Henry"")",male,20.5,0,0,7.25,,Southampton,E24
+229,Not Survived,2nd,"Fahlstrom, Mr. Arne Jonas",male,18.0,0,0,13.0,,Southampton,D10
+230,Not Survived,3rd,"Lefebre, Miss. Mathilde",female,28.0,3,1,25.4667,,Southampton,A5
+231,Survived,1st,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,1,0,83.475,C83,Southampton,C83
+232,Not Survived,3rd,"Larsson, Mr. Bengt Edvin",male,29.0,0,0,7.775,,Southampton,F33
+233,Not Survived,2nd,"Sjostedt, Mr. Ernst Adolf",male,59.0,0,0,13.5,,Southampton,G6
+234,Survived,3rd,"Asplund, Miss. Lillian Gertrud",female,5.0,4,2,31.3875,,Southampton,B57
+235,Not Survived,2nd,"Leyson, Mr. Robert William Norman",male,24.0,0,0,10.5,,Southampton,C123
+236,Not Survived,3rd,"Harknett, Miss. Alice Phoebe",female,28.0,0,0,7.55,,Southampton,E46
+237,Not Survived,2nd,"Hold, Mr. Stephen",male,44.0,1,0,26.0,,Southampton,C85
+238,Survived,2nd,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,0,2,26.25,,Southampton,B28
+239,Not Survived,2nd,"Pengelly, Mr. Frederick William",male,19.0,0,0,10.5,,Southampton,E24
+240,Not Survived,2nd,"Hunt, Mr. George Henry",male,33.0,0,0,12.275,,Southampton,D10
+241,Not Survived,3rd,"Zabour, Miss. Thamine",female,28.0,1,0,14.4542,,Cherbourg,A5
+242,Survived,3rd,"Murphy, Miss. Katherine ""Kate""",female,28.0,1,0,15.5,,Queenstown,F33
+243,Not Survived,2nd,"Coleridge, Mr. Reginald Charles",male,29.0,0,0,10.5,,Southampton,G6
+244,Not Survived,3rd,"Maenpaa, Mr. Matti Alexanteri",male,22.0,0,0,7.125,,Southampton,B57
+245,Not Survived,3rd,"Attalah, Mr. Sleiman",male,30.0,0,0,7.225,,Cherbourg,C123
+246,Not Survived,1st,"Minahan, Dr. William Edward",male,44.0,2,0,90.0,C78,Queenstown,C78
+247,Not Survived,3rd,"Lindahl, Miss. Agda Thorilda Viktoria",female,25.0,0,0,7.775,,Southampton,E46
+248,Survived,2nd,"Hamalainen, Mrs. William (Anna)",female,24.0,0,2,14.5,,Southampton,C85
+249,Survived,1st,"Beckwith, Mr. Richard Leonard",male,37.0,1,1,52.5542,D35,Southampton,D35
+250,Not Survived,2nd,"Carter, Rev. Ernest Courtenay",male,54.0,1,0,26.0,,Southampton,B28
+251,Not Survived,3rd,"Reed, Mr. James George",male,28.0,0,0,7.25,,Southampton,E24
+252,Not Survived,3rd,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29.0,1,1,10.4625,G6,Southampton,G6
+253,Not Survived,1st,"Stead, Mr. William Thomas",male,62.0,0,0,26.55,C87,Southampton,C87
+254,Not Survived,3rd,"Lobb, Mr. William Arthur",male,30.0,1,0,16.1,,Southampton,D10
+255,Not Survived,3rd,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,0,2,20.2125,,Southampton,A5
+256,Survived,3rd,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,0,2,15.2458,,Cherbourg,F33
+257,Survived,1st,"Thorne, Mrs. Gertrude Maybelle",female,28.0,0,0,79.2,,Cherbourg,G6
+258,Survived,1st,"Cherry, Miss. Gladys",female,30.0,0,0,86.5,B77,Southampton,B77
+259,Survived,1st,"Ward, Miss. Anna",female,35.0,0,0,512.3292,,Cherbourg,B57
+260,Survived,2nd,"Parrish, Mrs. (Lutie Davis)",female,50.0,0,1,26.0,,Southampton,C123
+261,Not Survived,3rd,"Smith, Mr. Thomas",male,28.0,0,0,7.75,,Queenstown,E46
+262,Survived,3rd,"Asplund, Master. Edvin Rojj Felix",male,3.0,4,2,31.3875,,Southampton,C85
+263,Not Survived,1st,"Taussig, Mr. Emil",male,52.0,1,1,79.65,E67,Southampton,E67
+264,Not Survived,1st,"Harrison, Mr. William",male,40.0,0,0,0.0,B94,Southampton,B94
+265,Not Survived,3rd,"Henry, Miss. Delia",female,28.0,0,0,7.75,,Queenstown,B28
+266,Not Survived,2nd,"Reeves, Mr. David",male,36.0,0,0,10.5,,Southampton,E24
+267,Not Survived,3rd,"Panula, Mr. Ernesti Arvid",male,16.0,4,1,39.6875,,Southampton,D10
+268,Survived,3rd,"Persson, Mr. Ernst Ulrik",male,25.0,1,0,7.775,,Southampton,A5
+269,Survived,1st,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,0,1,153.4625,C125,Southampton,C125
+270,Survived,1st,"Bissette, Miss. Amelia",female,35.0,0,0,135.6333,C99,Southampton,C99
+271,Not Survived,1st,"Cairns, Mr. Alexander",male,28.0,0,0,31.0,,Southampton,F33
+272,Survived,3rd,"Tornquist, Mr. William Henry",male,25.0,0,0,0.0,,Southampton,G6
+273,Survived,2nd,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41.0,0,1,19.5,,Southampton,B57
+274,Not Survived,1st,"Natsch, Mr. Charles H",male,37.0,0,1,29.7,C118,Cherbourg,C118
+275,Survived,3rd,"Healy, Miss. Hanora ""Nora""",female,28.0,0,0,7.75,,Queenstown,C123
+276,Survived,1st,"Andrews, Miss. Kornelia Theodosia",female,63.0,1,0,77.9583,D7,Southampton,D7
+277,Not Survived,3rd,"Lindblom, Miss. Augusta Charlotta",female,45.0,0,0,7.75,,Southampton,E46
+278,Not Survived,2nd,"Parkes, Mr. Francis ""Frank""",male,28.0,0,0,0.0,,Southampton,C85
+279,Not Survived,3rd,"Rice, Master. Eric",male,7.0,4,1,29.125,,Queenstown,B28
+280,Survived,3rd,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35.0,1,1,20.25,,Southampton,E24
+281,Not Survived,3rd,"Duane, Mr. Frank",male,65.0,0,0,7.75,,Queenstown,D10
+282,Not Survived,3rd,"Olsson, Mr. Nils Johan Goransson",male,28.0,0,0,7.8542,,Southampton,A5
+283,Not Survived,3rd,"de Pelsmaeker, Mr. Alfons",male,16.0,0,0,9.5,,Southampton,F33
+284,Survived,3rd,"Dorking, Mr. Edward Arthur",male,19.0,0,0,8.05,,Southampton,G6
+285,Not Survived,1st,"Smith, Mr. Richard William",male,28.0,0,0,26.0,A19,Southampton,A19
+286,Not Survived,3rd,"Stankovic, Mr. Ivan",male,33.0,0,0,8.6625,,Cherbourg,B57
+287,Survived,3rd,"de Mulder, Mr. Theodore",male,30.0,0,0,9.5,,Southampton,C123
+288,Not Survived,3rd,"Naidenoff, Mr. Penko",male,22.0,0,0,7.8958,,Southampton,E46
+289,Survived,2nd,"Hosono, Mr. Masabumi",male,42.0,0,0,13.0,,Southampton,C85
+290,Survived,3rd,"Connolly, Miss. Kate",female,22.0,0,0,7.75,,Queenstown,B28
+291,Survived,1st,"Barber, Miss. Ellen ""Nellie""",female,26.0,0,0,78.85,,Southampton,E24
+292,Survived,1st,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,1,0,91.0792,B49,Cherbourg,B49
+293,Not Survived,2nd,"Levy, Mr. Rene Jacques",male,36.0,0,0,12.875,D,Cherbourg,D
+294,Not Survived,3rd,"Haas, Miss. Aloisia",female,24.0,0,0,8.85,,Southampton,D10
+295,Not Survived,3rd,"Mineff, Mr. Ivan",male,24.0,0,0,7.8958,,Southampton,A5
+296,Not Survived,1st,"Lewy, Mr. Ervin G",male,28.0,0,0,27.7208,,Cherbourg,F33
+297,Not Survived,3rd,"Hanna, Mr. Mansour",male,23.5,0,0,7.2292,,Cherbourg,G6
+298,Not Survived,1st,"Allison, Miss. Helen Loraine",female,2.0,1,2,151.55,C22 C26,Southampton,C22 C26
+299,Survived,1st,"Saalfeld, Mr. Adolphe",male,28.0,0,0,30.5,C106,Southampton,C106
+300,Survived,1st,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,0,1,247.5208,B58 B60,Cherbourg,B58 B60
+301,Survived,3rd,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,28.0,0,0,7.75,,Queenstown,B57
+302,Survived,3rd,"McCoy, Mr. Bernard",male,28.0,2,0,23.25,,Queenstown,C123
+303,Not Survived,3rd,"Johnson, Mr. William Cahoone Jr",male,19.0,0,0,0.0,,Southampton,E46
+304,Survived,2nd,"Keane, Miss. Nora A",female,28.0,0,0,12.35,E101,Queenstown,E101
+305,Not Survived,3rd,"Williams, Mr. Howard Hugh ""Harry""",male,28.0,0,0,8.05,,Southampton,C85
+306,Survived,1st,"Allison, Master. Hudson Trevor",male,0.92,1,2,151.55,C22 C26,Southampton,C22 C26
+307,Survived,1st,"Fleming, Miss. Margaret",female,28.0,0,0,110.8833,,Cherbourg,B28
+308,Survived,1st,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,1,0,108.9,C65,Cherbourg,C65
+309,Not Survived,2nd,"Abelson, Mr. Samuel",male,30.0,1,0,24.0,,Cherbourg,E24
+310,Survived,1st,"Francatelli, Miss. Laura Mabel",female,30.0,0,0,56.9292,E36,Cherbourg,E36
+311,Survived,1st,"Hays, Miss. Margaret Bechstein",female,24.0,0,0,83.1583,C54,Cherbourg,C54
+312,Survived,1st,"Ryerson, Miss. Emily Borie",female,18.0,2,2,262.375,B57 B59 B63 B66,Cherbourg,B57 B59 B63 B66
+313,Not Survived,2nd,"Lahtinen, Mrs. William (Anna Sylfven)",female,26.0,1,1,26.0,,Southampton,D10
+314,Not Survived,3rd,"Hendekovic, Mr. Ignjac",male,28.0,0,0,7.8958,,Southampton,A5
+315,Not Survived,2nd,"Hart, Mr. Benjamin",male,43.0,1,1,26.25,,Southampton,F33
+316,Survived,3rd,"Nilsson, Miss. Helmina Josefina",female,26.0,0,0,7.8542,,Southampton,G6
+317,Survived,2nd,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,1,0,26.0,,Southampton,B57
+318,Not Survived,2nd,"Moraweck, Dr. Ernest",male,54.0,0,0,14.0,,Southampton,C123
+319,Survived,1st,"Wick, Miss. Mary Natalie",female,31.0,0,2,164.8667,C7,Southampton,C7
+320,Survived,1st,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,1,1,134.5,E34,Cherbourg,E34
+321,Not Survived,3rd,"Dennis, Mr. Samuel",male,22.0,0,0,7.25,,Southampton,E46
+322,Not Survived,3rd,"Danoff, Mr. Yoto",male,27.0,0,0,7.8958,,Southampton,C85
+323,Survived,2nd,"Slayter, Miss. Hilda Mary",female,30.0,0,0,12.35,,Queenstown,B28
+324,Survived,2nd,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,1,1,29.0,,Southampton,E24
+325,Not Survived,3rd,"Sage, Mr. George John Jr",male,28.0,8,2,69.55,,Southampton,D10
+326,Survived,1st,"Young, Miss. Marie Grice",female,36.0,0,0,135.6333,C32,Cherbourg,C32
+327,Not Survived,3rd,"Nysveen, Mr. Johan Hansen",male,61.0,0,0,6.2375,,Southampton,A5
+328,Survived,2nd,"Ball, Mrs. (Ada E Hall)",female,36.0,0,0,13.0,D,Southampton,D
+329,Survived,3rd,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31.0,1,1,20.525,,Southampton,F33
+330,Survived,1st,"Hippach, Miss. Jean Gertrude",female,16.0,0,1,57.9792,B18,Cherbourg,B18
+331,Survived,3rd,"McCoy, Miss. Agnes",female,28.0,2,0,23.25,,Queenstown,G6
+332,Not Survived,1st,"Partner, Mr. Austen",male,45.5,0,0,28.5,C124,Southampton,C124
+333,Not Survived,1st,"Graham, Mr. George Edward",male,38.0,0,1,153.4625,C91,Southampton,C91
+334,Not Survived,3rd,"Vander Planke, Mr. Leo Edmondus",male,16.0,2,0,18.0,,Southampton,B57
+335,Survived,1st,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,28.0,1,0,133.65,,Southampton,C123
+336,Not Survived,3rd,"Denkoff, Mr. Mitto",male,28.0,0,0,7.8958,,Southampton,E46
+337,Not Survived,1st,"Pears, Mr. Thomas Clinton",male,29.0,1,0,66.6,C2,Southampton,C2
+338,Survived,1st,"Burns, Miss. Elizabeth Margaret",female,41.0,0,0,134.5,E40,Cherbourg,E40
+339,Survived,3rd,"Dahl, Mr. Karl Edwart",male,45.0,0,0,8.05,,Southampton,C85
+340,Not Survived,1st,"Blackwell, Mr. Stephen Weart",male,45.0,0,0,35.5,T,Southampton,T
+341,Survived,2nd,"Navratil, Master. Edmond Roger",male,2.0,1,1,26.0,F2,Southampton,F2
+342,Survived,1st,"Fortune, Miss. Alice Elizabeth",female,24.0,3,2,263.0,C23 C25 C27,Southampton,C23 C25 C27
+343,Not Survived,2nd,"Collander, Mr. Erik Gustaf",male,28.0,0,0,13.0,,Southampton,B28
+344,Not Survived,2nd,"Sedgwick, Mr. Charles Frederick Waddington",male,25.0,0,0,13.0,,Southampton,E24
+345,Not Survived,2nd,"Fox, Mr. Stanley Hubert",male,36.0,0,0,13.0,,Southampton,D10
+346,Survived,2nd,"Brown, Miss. Amelia ""Mildred""",female,24.0,0,0,13.0,F33,Southampton,F33
+347,Survived,2nd,"Smith, Miss. Marion Elsie",female,40.0,0,0,13.0,,Southampton,A5
+348,Survived,3rd,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,28.0,1,0,16.1,,Southampton,F33
+349,Survived,3rd,"Coutts, Master. William Loch ""William""",male,3.0,1,1,15.9,,Southampton,G6
+350,Not Survived,3rd,"Dimic, Mr. Jovan",male,42.0,0,0,8.6625,,Southampton,B57
+351,Not Survived,3rd,"Odahl, Mr. Nils Martin",male,23.0,0,0,9.225,,Southampton,C123
+352,Not Survived,1st,"Williams-Lambert, Mr. Fletcher Fellows",male,28.0,0,0,35.0,C128,Southampton,C128
+353,Not Survived,3rd,"Elias, Mr. Tannous",male,15.0,1,1,7.2292,,Cherbourg,E46
+354,Not Survived,3rd,"Arnold-Franchi, Mr. Josef",male,25.0,1,0,17.8,,Southampton,C85
+355,Not Survived,3rd,"Yousif, Mr. Wazli",male,28.0,0,0,7.225,,Cherbourg,B28
+356,Not Survived,3rd,"Vanden Steen, Mr. Leo Peter",male,28.0,0,0,9.5,,Southampton,E24
+357,Survived,1st,"Bowerman, Miss. Elsie Edith",female,22.0,0,1,55.0,E33,Southampton,E33
+358,Not Survived,2nd,"Funk, Miss. Annie Clemmer",female,38.0,0,0,13.0,,Southampton,D10
+359,Survived,3rd,"McGovern, Miss. Mary",female,28.0,0,0,7.8792,,Queenstown,A5
+360,Survived,3rd,"Mockler, Miss. Helen Mary ""Ellie""",female,28.0,0,0,7.8792,,Queenstown,F33
+361,Not Survived,3rd,"Skoog, Mr. Wilhelm",male,40.0,1,4,27.9,,Southampton,G6
+362,Not Survived,2nd,"del Carlo, Mr. Sebastiano",male,29.0,1,0,27.7208,,Cherbourg,B57
+363,Not Survived,3rd,"Barbara, Mrs. (Catherine David)",female,45.0,0,1,14.4542,,Cherbourg,C123
+364,Not Survived,3rd,"Asim, Mr. Adola",male,35.0,0,0,7.05,,Southampton,E46
+365,Not Survived,3rd,"O'Brien, Mr. Thomas",male,28.0,1,0,15.5,,Queenstown,C85
+366,Not Survived,3rd,"Adahl, Mr. Mauritz Nils Martin",male,30.0,0,0,7.25,,Southampton,B28
+367,Survived,1st,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,1,0,75.25,D37,Cherbourg,D37
+368,Survived,3rd,"Moussa, Mrs. (Mantoura Boulos)",female,28.0,0,0,7.2292,,Cherbourg,E24
+369,Survived,3rd,"Jermyn, Miss. Annie",female,28.0,0,0,7.75,,Queenstown,D10
+370,Survived,1st,"Aubart, Mme. Leontine Pauline",female,24.0,0,0,69.3,B35,Cherbourg,B35
+371,Survived,1st,"Harder, Mr. George Achilles",male,25.0,1,0,55.4417,E50,Cherbourg,E50
+372,Not Survived,3rd,"Wiklund, Mr. Jakob Alfred",male,18.0,1,0,6.4958,,Southampton,A5
+373,Not Survived,3rd,"Beavan, Mr. William Thomas",male,19.0,0,0,8.05,,Southampton,F33
+374,Not Survived,1st,"Ringhini, Mr. Sante",male,22.0,0,0,135.6333,,Cherbourg,G6
+375,Not Survived,3rd,"Palsson, Miss. Stina Viola",female,3.0,3,1,21.075,,Southampton,B57
+376,Survived,1st,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,28.0,1,0,82.1708,,Cherbourg,C123
+377,Survived,3rd,"Landergren, Miss. Aurora Adelia",female,22.0,0,0,7.25,,Southampton,E46
+378,Not Survived,1st,"Widener, Mr. Harry Elkins",male,27.0,0,2,211.5,C82,Cherbourg,C82
+379,Not Survived,3rd,"Betros, Mr. Tannous",male,20.0,0,0,4.0125,,Cherbourg,C85
+380,Not Survived,3rd,"Gustafsson, Mr. Karl Gideon",male,19.0,0,0,7.775,,Southampton,B28
+381,Survived,1st,"Bidois, Miss. Rosalie",female,42.0,0,0,227.525,,Cherbourg,E24
+382,Survived,3rd,"Nakid, Miss. Maria (""Mary"")",female,1.0,0,2,15.7417,,Cherbourg,D10
+383,Not Survived,3rd,"Tikkanen, Mr. Juho",male,32.0,0,0,7.925,,Southampton,A5
+384,Survived,1st,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0,1,0,52.0,,Southampton,F33
+385,Not Survived,3rd,"Plotcharsky, Mr. Vasil",male,28.0,0,0,7.8958,,Southampton,G6
+386,Not Survived,2nd,"Davies, Mr. Charles Henry",male,18.0,0,0,73.5,,Southampton,B57
+387,Not Survived,3rd,"Goodwin, Master. Sidney Leonard",male,1.0,5,2,46.9,,Southampton,C123
+388,Survived,2nd,"Buss, Miss. Kate",female,36.0,0,0,13.0,,Southampton,E46
+389,Not Survived,3rd,"Sadlier, Mr. Matthew",male,28.0,0,0,7.7292,,Queenstown,C85
+390,Survived,2nd,"Lehmann, Miss. Bertha",female,17.0,0,0,12.0,,Cherbourg,B28
+391,Survived,1st,"Carter, Mr. William Ernest",male,36.0,1,2,120.0,B96 B98,Southampton,B96 B98
+392,Survived,3rd,"Jansson, Mr. Carl Olof",male,21.0,0,0,7.7958,,Southampton,E24
+393,Not Survived,3rd,"Gustafsson, Mr. Johan Birger",male,28.0,2,0,7.925,,Southampton,D10
+394,Survived,1st,"Newell, Miss. Marjorie",female,23.0,1,0,113.275,D36,Cherbourg,D36
+395,Survived,3rd,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,0,2,16.7,G6,Southampton,G6
+396,Not Survived,3rd,"Johansson, Mr. Erik",male,22.0,0,0,7.7958,,Southampton,A5
+397,Not Survived,3rd,"Olsson, Miss. Elina",female,31.0,0,0,7.8542,,Southampton,F33
+398,Not Survived,2nd,"McKane, Mr. Peter David",male,46.0,0,0,26.0,,Southampton,G6
+399,Not Survived,2nd,"Pain, Dr. Alfred",male,23.0,0,0,10.5,,Southampton,B57
+400,Survived,2nd,"Trout, Mrs. William H (Jessie L)",female,28.0,0,0,12.65,,Southampton,C123
+401,Survived,3rd,"Niskanen, Mr. Juha",male,39.0,0,0,7.925,,Southampton,E46
+402,Not Survived,3rd,"Adams, Mr. John",male,26.0,0,0,8.05,,Southampton,C85
+403,Not Survived,3rd,"Jussila, Miss. Mari Aina",female,21.0,1,0,9.825,,Southampton,B28
+404,Not Survived,3rd,"Hakkarainen, Mr. Pekka Pietari",male,28.0,1,0,15.85,,Southampton,E24
+405,Not Survived,3rd,"Oreskovic, Miss. Marija",female,20.0,0,0,8.6625,,Southampton,D10
+406,Not Survived,2nd,"Gale, Mr. Shadrach",male,34.0,1,0,21.0,,Southampton,A5
+407,Not Survived,3rd,"Widegren, Mr. Carl/Charles Peter",male,51.0,0,0,7.75,,Southampton,F33
+408,Survived,2nd,"Richards, Master. William Rowe",male,3.0,1,1,18.75,,Southampton,G6
+409,Not Survived,3rd,"Birkeland, Mr. Hans Martin Monsen",male,21.0,0,0,7.775,,Southampton,B57
+410,Not Survived,3rd,"Lefebre, Miss. Ida",female,28.0,3,1,25.4667,,Southampton,C123
+411,Not Survived,3rd,"Sdycoff, Mr. Todor",male,28.0,0,0,7.8958,,Southampton,E46
+412,Not Survived,3rd,"Hart, Mr. Henry",male,28.0,0,0,6.8583,,Queenstown,C85
+413,Survived,1st,"Minahan, Miss. Daisy E",female,33.0,1,0,90.0,C78,Queenstown,C78
+414,Not Survived,2nd,"Cunningham, Mr. Alfred Fleming",male,28.0,0,0,0.0,,Southampton,B28
+415,Survived,3rd,"Sundman, Mr. Johan Julian",male,44.0,0,0,7.925,,Southampton,E24
+416,Not Survived,3rd,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,28.0,0,0,8.05,,Southampton,D10
+417,Survived,2nd,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,1,1,32.5,,Southampton,A5
+418,Survived,2nd,"Silven, Miss. Lyyli Karoliina",female,18.0,0,2,13.0,,Southampton,F33
+419,Not Survived,2nd,"Matthews, Mr. William John",male,30.0,0,0,13.0,,Southampton,G6
+420,Not Survived,3rd,"Van Impe, Miss. Catharina",female,10.0,0,2,24.15,,Southampton,B57
+421,Not Survived,3rd,"Gheorgheff, Mr. Stanio",male,28.0,0,0,7.8958,,Cherbourg,C123
+422,Not Survived,3rd,"Charters, Mr. David",male,21.0,0,0,7.7333,,Queenstown,E46
+423,Not Survived,3rd,"Zimmerman, Mr. Leo",male,29.0,0,0,7.875,,Southampton,C85
+424,Not Survived,3rd,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28.0,1,1,14.4,,Southampton,B28
+425,Not Survived,3rd,"Rosblom, Mr. Viktor Richard",male,18.0,1,1,20.2125,,Southampton,E24
+426,Not Survived,3rd,"Wiseman, Mr. Phillippe",male,28.0,0,0,7.25,,Southampton,D10
+427,Survived,2nd,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,1,0,26.0,,Southampton,A5
+428,Survived,2nd,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19.0,0,0,26.0,,Southampton,F33
+429,Not Survived,3rd,"Flynn, Mr. James",male,28.0,0,0,7.75,,Queenstown,G6
+430,Survived,3rd,"Pickard, Mr. Berk (Berk Trembisky)",male,32.0,0,0,8.05,E10,Southampton,E10
+431,Survived,1st,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0,0,0,26.55,C52,Southampton,C52
+432,Survived,3rd,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,28.0,1,0,16.1,,Southampton,B57
+433,Survived,2nd,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,1,0,26.0,,Southampton,C123
+434,Not Survived,3rd,"Kallio, Mr. Nikolai Erland",male,17.0,0,0,7.125,,Southampton,E46
+435,Not Survived,1st,"Silvey, Mr. William Baird",male,50.0,1,0,55.9,E44,Southampton,E44
+436,Survived,1st,"Carter, Miss. Lucile Polk",female,14.0,1,2,120.0,B96 B98,Southampton,B96 B98
+437,Not Survived,3rd,"Ford, Miss. Doolina Margaret ""Daisy""",female,21.0,2,2,34.375,,Southampton,C85
+438,Survived,2nd,"Richards, Mrs. Sidney (Emily Hocking)",female,24.0,2,3,18.75,,Southampton,B28
+439,Not Survived,1st,"Fortune, Mr. Mark",male,64.0,1,4,263.0,C23 C25 C27,Southampton,C23 C25 C27
+440,Not Survived,2nd,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,0,0,10.5,,Southampton,E24
+441,Survived,2nd,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,1,1,26.25,,Southampton,D10
+442,Not Survived,3rd,"Hampe, Mr. Leon",male,20.0,0,0,9.5,,Southampton,A5
+443,Not Survived,3rd,"Petterson, Mr. Johan Emil",male,25.0,1,0,7.775,,Southampton,F33
+444,Survived,2nd,"Reynaldo, Ms. Encarnacion",female,28.0,0,0,13.0,,Southampton,G6
+445,Survived,3rd,"Johannesen-Bratthammer, Mr. Bernt",male,28.0,0,0,8.1125,,Southampton,B57
+446,Survived,1st,"Dodge, Master. Washington",male,4.0,0,2,81.8583,A34,Southampton,A34
+447,Survived,2nd,"Mellinger, Miss. Madeleine Violet",female,13.0,0,1,19.5,,Southampton,C123
+448,Survived,1st,"Seward, Mr. Frederic Kimber",male,34.0,0,0,26.55,,Southampton,E46
+449,Survived,3rd,"Baclini, Miss. Marie Catherine",female,5.0,2,1,19.2583,,Cherbourg,C85
+450,Survived,1st,"Peuchen, Major. Arthur Godfrey",male,52.0,0,0,30.5,C104,Southampton,C104
+451,Not Survived,2nd,"West, Mr. Edwy Arthur",male,36.0,1,2,27.75,,Southampton,B28
+452,Not Survived,3rd,"Hagland, Mr. Ingvald Olai Olsen",male,28.0,1,0,19.9667,,Southampton,E24
+453,Not Survived,1st,"Foreman, Mr. Benjamin Laventall",male,30.0,0,0,27.75,C111,Cherbourg,C111
+454,Survived,1st,"Goldenberg, Mr. Samuel L",male,49.0,1,0,89.1042,C92,Cherbourg,C92
+455,Not Survived,3rd,"Peduzzi, Mr. Joseph",male,28.0,0,0,8.05,,Southampton,D10
+456,Survived,3rd,"Jalsevac, Mr. Ivan",male,29.0,0,0,7.8958,,Cherbourg,A5
+457,Not Survived,1st,"Millet, Mr. Francis Davis",male,65.0,0,0,26.55,E38,Southampton,E38
+458,Survived,1st,"Kenyon, Mrs. Frederick R (Marion)",female,28.0,1,0,51.8625,D21,Southampton,D21
+459,Survived,2nd,"Toomey, Miss. Ellen",female,50.0,0,0,10.5,,Southampton,F33
+460,Not Survived,3rd,"O'Connor, Mr. Maurice",male,28.0,0,0,7.75,,Queenstown,G6
+461,Survived,1st,"Anderson, Mr. Harry",male,48.0,0,0,26.55,E12,Southampton,E12
+462,Not Survived,3rd,"Morley, Mr. William",male,34.0,0,0,8.05,,Southampton,B57
+463,Not Survived,1st,"Gee, Mr. Arthur H",male,47.0,0,0,38.5,E63,Southampton,E63
+464,Not Survived,2nd,"Milling, Mr. Jacob Christian",male,48.0,0,0,13.0,,Southampton,C123
+465,Not Survived,3rd,"Maisner, Mr. Simon",male,28.0,0,0,8.05,,Southampton,E46
+466,Not Survived,3rd,"Goncalves, Mr. Manuel Estanslas",male,38.0,0,0,7.05,,Southampton,C85
+467,Not Survived,2nd,"Campbell, Mr. William",male,28.0,0,0,0.0,,Southampton,B28
+468,Not Survived,1st,"Smart, Mr. John Montgomery",male,56.0,0,0,26.55,,Southampton,E24
+469,Not Survived,3rd,"Scanlan, Mr. James",male,28.0,0,0,7.725,,Queenstown,D10
+470,Survived,3rd,"Baclini, Miss. Helene Barbara",female,0.75,2,1,19.2583,,Cherbourg,A5
+471,Not Survived,3rd,"Keefe, Mr. Arthur",male,28.0,0,0,7.25,,Southampton,F33
+472,Not Survived,3rd,"Cacic, Mr. Luka",male,38.0,0,0,8.6625,,Southampton,G6
+473,Survived,2nd,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33.0,1,2,27.75,,Southampton,B57
+474,Survived,2nd,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,0,0,13.7917,D,Cherbourg,D
+475,Not Survived,3rd,"Strandberg, Miss. Ida Sofia",female,22.0,0,0,9.8375,,Southampton,C123
+476,Not Survived,1st,"Clifford, Mr. George Quincy",male,28.0,0,0,52.0,A14,Southampton,A14
+477,Not Survived,2nd,"Renouf, Mr. Peter Henry",male,34.0,1,0,21.0,,Southampton,E46
+478,Not Survived,3rd,"Braund, Mr. Lewis Richard",male,29.0,1,0,7.0458,,Southampton,C85
+479,Not Survived,3rd,"Karlsson, Mr. Nils August",male,22.0,0,0,7.5208,,Southampton,B28
+480,Survived,3rd,"Hirvonen, Miss. Hildur E",female,2.0,0,1,12.2875,,Southampton,E24
+481,Not Survived,3rd,"Goodwin, Master. Harold Victor",male,9.0,5,2,46.9,,Southampton,D10
+482,Not Survived,2nd,"Frost, Mr. Anthony Wood ""Archie""",male,28.0,0,0,0.0,,Southampton,A5
+483,Not Survived,3rd,"Rouse, Mr. Richard Henry",male,50.0,0,0,8.05,,Southampton,F33
+484,Survived,3rd,"Turkula, Mrs. (Hedwig)",female,63.0,0,0,9.5875,,Southampton,G6
+485,Survived,1st,"Bishop, Mr. Dickinson H",male,25.0,1,0,91.0792,B49,Cherbourg,B49
+486,Not Survived,3rd,"Lefebre, Miss. Jeannie",female,28.0,3,1,25.4667,,Southampton,B57
+487,Survived,1st,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,1,0,90.0,C93,Southampton,C93
+488,Not Survived,1st,"Kent, Mr. Edward Austin",male,58.0,0,0,29.7,B37,Cherbourg,B37
+489,Not Survived,3rd,"Somerton, Mr. Francis William",male,30.0,0,0,8.05,,Southampton,C123
+490,Survived,3rd,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,1,1,15.9,,Southampton,E46
+491,Not Survived,3rd,"Hagland, Mr. Konrad Mathias Reiersen",male,28.0,1,0,19.9667,,Southampton,C85
+492,Not Survived,3rd,"Windelov, Mr. Einar",male,21.0,0,0,7.25,,Southampton,B28
+493,Not Survived,1st,"Molson, Mr. Harry Markland",male,55.0,0,0,30.5,C30,Southampton,C30
+494,Not Survived,1st,"Artagaveytia, Mr. Ramon",male,71.0,0,0,49.5042,,Cherbourg,E24
+495,Not Survived,3rd,"Stanley, Mr. Edward Roland",male,21.0,0,0,8.05,,Southampton,D10
+496,Not Survived,3rd,"Yousseff, Mr. Gerious",male,28.0,0,0,14.4583,,Cherbourg,A5
+497,Survived,1st,"Eustis, Miss. Elizabeth Mussey",female,54.0,1,0,78.2667,D20,Cherbourg,D20
+498,Not Survived,3rd,"Shellard, Mr. Frederick William",male,28.0,0,0,15.1,,Southampton,F33
+499,Not Survived,1st,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25.0,1,2,151.55,C22 C26,Southampton,C22 C26
+500,Not Survived,3rd,"Svensson, Mr. Olof",male,24.0,0,0,7.7958,,Southampton,G6
+501,Not Survived,3rd,"Calic, Mr. Petar",male,17.0,0,0,8.6625,,Southampton,B57
+502,Not Survived,3rd,"Canavan, Miss. Mary",female,21.0,0,0,7.75,,Queenstown,C123
+503,Not Survived,3rd,"O'Sullivan, Miss. Bridget Mary",female,28.0,0,0,7.6292,,Queenstown,E46
+504,Not Survived,3rd,"Laitinen, Miss. Kristina Sofia",female,37.0,0,0,9.5875,,Southampton,C85
+505,Survived,1st,"Maioni, Miss. Roberta",female,16.0,0,0,86.5,B79,Southampton,B79
+506,Not Survived,1st,"Penasco y Castellana, Mr. Victor de Satode",male,18.0,1,0,108.9,C65,Cherbourg,C65
+507,Survived,2nd,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,0,2,26.0,,Southampton,B28
+508,Survived,1st,"Bradley, Mr. George (""George Arthur Brayton"")",male,28.0,0,0,26.55,,Southampton,E24
+509,Not Survived,3rd,"Olsen, Mr. Henry Margido",male,28.0,0,0,22.525,,Southampton,D10
+510,Survived,3rd,"Lang, Mr. Fang",male,26.0,0,0,56.4958,,Southampton,A5
+511,Survived,3rd,"Daly, Mr. Eugene Patrick",male,29.0,0,0,7.75,,Queenstown,F33
+512,Not Survived,3rd,"Webber, Mr. James",male,28.0,0,0,8.05,,Southampton,G6
+513,Survived,1st,"McGough, Mr. James Robert",male,36.0,0,0,26.2875,E25,Southampton,E25
+514,Survived,1st,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54.0,1,0,59.4,,Cherbourg,B57
+515,Not Survived,3rd,"Coleff, Mr. Satio",male,24.0,0,0,7.4958,,Southampton,C123
+516,Not Survived,1st,"Walker, Mr. William Anderson",male,47.0,0,0,34.0208,D46,Southampton,D46
+517,Survived,2nd,"Lemore, Mrs. (Amelia Milley)",female,34.0,0,0,10.5,F33,Southampton,F33
+518,Not Survived,3rd,"Ryan, Mr. Patrick",male,28.0,0,0,24.15,,Queenstown,E46
+519,Survived,2nd,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0,1,0,26.0,,Southampton,C85
+520,Not Survived,3rd,"Pavlovic, Mr. Stefo",male,32.0,0,0,7.8958,,Southampton,B28
+521,Survived,1st,"Perreault, Miss. Anne",female,30.0,0,0,93.5,B73,Southampton,B73
+522,Not Survived,3rd,"Vovk, Mr. Janko",male,22.0,0,0,7.8958,,Southampton,E24
+523,Not Survived,3rd,"Lahoud, Mr. Sarkis",male,28.0,0,0,7.225,,Cherbourg,D10
+524,Survived,1st,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0,0,1,57.9792,B18,Cherbourg,B18
+525,Not Survived,3rd,"Kassem, Mr. Fared",male,28.0,0,0,7.2292,,Cherbourg,A5
+526,Not Survived,3rd,"Farrell, Mr. James",male,40.5,0,0,7.75,,Queenstown,F33
+527,Survived,2nd,"Ridsdale, Miss. Lucy",female,50.0,0,0,10.5,,Southampton,G6
+528,Not Survived,1st,"Farthing, Mr. John",male,28.0,0,0,221.7792,C95,Southampton,C95
+529,Not Survived,3rd,"Salonen, Mr. Johan Werner",male,39.0,0,0,7.925,,Southampton,B57
+530,Not Survived,2nd,"Hocking, Mr. Richard George",male,23.0,2,1,11.5,,Southampton,C123
+531,Survived,2nd,"Quick, Miss. Phyllis May",female,2.0,1,1,26.0,,Southampton,E46
+532,Not Survived,3rd,"Toufik, Mr. Nakli",male,28.0,0,0,7.2292,,Cherbourg,C85
+533,Not Survived,3rd,"Elias, Mr. Joseph Jr",male,17.0,1,1,7.2292,,Cherbourg,B28
+534,Survived,3rd,"Peter, Mrs. Catherine (Catherine Rizk)",female,28.0,0,2,22.3583,,Cherbourg,E24
+535,Not Survived,3rd,"Cacic, Miss. Marija",female,30.0,0,0,8.6625,,Southampton,D10
+536,Survived,2nd,"Hart, Miss. Eva Miriam",female,7.0,0,2,26.25,,Southampton,A5
+537,Not Survived,1st,"Butt, Major. Archibald Willingham",male,45.0,0,0,26.55,B38,Southampton,B38
+538,Survived,1st,"LeRoy, Miss. Bertha",female,30.0,0,0,106.425,,Cherbourg,F33
+539,Not Survived,3rd,"Risien, Mr. Samuel Beard",male,28.0,0,0,14.5,,Southampton,G6
+540,Survived,1st,"Frolicher, Miss. Hedwig Margaritha",female,22.0,0,2,49.5,B39,Cherbourg,B39
+541,Survived,1st,"Crosby, Miss. Harriet R",female,36.0,0,2,71.0,B22,Southampton,B22
+542,Not Survived,3rd,"Andersson, Miss. Ingeborg Constanzia",female,9.0,4,2,31.275,,Southampton,B57
+543,Not Survived,3rd,"Andersson, Miss. Sigrid Elisabeth",female,11.0,4,2,31.275,,Southampton,C123
+544,Survived,2nd,"Beane, Mr. Edward",male,32.0,1,0,26.0,,Southampton,E46
+545,Not Survived,1st,"Douglas, Mr. Walter Donald",male,50.0,1,0,106.425,C86,Cherbourg,C86
+546,Not Survived,1st,"Nicholson, Mr. Arthur Ernest",male,64.0,0,0,26.0,,Southampton,C85
+547,Survived,2nd,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,1,0,26.0,,Southampton,B28
+548,Survived,2nd,"Padro y Manent, Mr. Julian",male,28.0,0,0,13.8625,,Cherbourg,E24
+549,Not Survived,3rd,"Goldsmith, Mr. Frank John",male,33.0,1,1,20.525,,Southampton,D10
+550,Survived,2nd,"Davies, Master. John Morgan Jr",male,8.0,1,1,36.75,,Southampton,A5
+551,Survived,1st,"Thayer, Mr. John Borland Jr",male,17.0,0,2,110.8833,C70,Cherbourg,C70
+552,Not Survived,2nd,"Sharp, Mr. Percival James R",male,27.0,0,0,26.0,,Southampton,F33
+553,Not Survived,3rd,"O'Brien, Mr. Timothy",male,28.0,0,0,7.8292,,Queenstown,G6
+554,Survived,3rd,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22.0,0,0,7.225,,Cherbourg,B57
+555,Survived,3rd,"Ohman, Miss. Velin",female,22.0,0,0,7.775,,Southampton,C123
+556,Not Survived,1st,"Wright, Mr. George",male,62.0,0,0,26.55,,Southampton,E46
+557,Survived,1st,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0,1,0,39.6,A16,Cherbourg,A16
+558,Not Survived,1st,"Robbins, Mr. Victor",male,28.0,0,0,227.525,,Cherbourg,C85
+559,Survived,1st,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0,1,1,79.65,E67,Southampton,E67
+560,Survived,3rd,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36.0,1,0,17.4,,Southampton,B28
+561,Not Survived,3rd,"Morrow, Mr. Thomas Rowan",male,28.0,0,0,7.75,,Queenstown,E24
+562,Not Survived,3rd,"Sivic, Mr. Husein",male,40.0,0,0,7.8958,,Southampton,D10
+563,Not Survived,2nd,"Norman, Mr. Robert Douglas",male,28.0,0,0,13.5,,Southampton,A5
+564,Not Survived,3rd,"Simmons, Mr. John",male,28.0,0,0,8.05,,Southampton,F33
+565,Not Survived,3rd,"Meanwell, Miss. (Marion Ogden)",female,28.0,0,0,8.05,,Southampton,G6
+566,Not Survived,3rd,"Davies, Mr. Alfred J",male,24.0,2,0,24.15,,Southampton,B57
+567,Not Survived,3rd,"Stoytcheff, Mr. Ilia",male,19.0,0,0,7.8958,,Southampton,C123
+568,Not Survived,3rd,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29.0,0,4,21.075,,Southampton,E46
+569,Not Survived,3rd,"Doharr, Mr. Tannous",male,28.0,0,0,7.2292,,Cherbourg,C85
+570,Survived,3rd,"Jonsson, Mr. Carl",male,32.0,0,0,7.8542,,Southampton,B28
+571,Survived,2nd,"Harris, Mr. George",male,62.0,0,0,10.5,,Southampton,E24
+572,Survived,1st,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,2,0,51.4792,C101,Southampton,C101
+573,Survived,1st,"Flynn, Mr. John Irwin (""Irving"")",male,36.0,0,0,26.3875,E25,Southampton,E25
+574,Survived,3rd,"Kelly, Miss. Mary",female,28.0,0,0,7.75,,Queenstown,D10
+575,Not Survived,3rd,"Rush, Mr. Alfred George John",male,16.0,0,0,8.05,,Southampton,A5
+576,Not Survived,3rd,"Patchett, Mr. George",male,19.0,0,0,14.5,,Southampton,F33
+577,Survived,2nd,"Garside, Miss. Ethel",female,34.0,0,0,13.0,,Southampton,G6
+578,Survived,1st,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,1,0,55.9,E44,Southampton,E44
+579,Not Survived,3rd,"Caram, Mrs. Joseph (Maria Elias)",female,28.0,1,0,14.4583,,Cherbourg,B57
+580,Survived,3rd,"Jussila, Mr. Eiriik",male,32.0,0,0,7.925,,Southampton,C123
+581,Survived,2nd,"Christy, Miss. Julie Rachel",female,25.0,1,1,30.0,,Southampton,E46
+582,Survived,1st,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0,1,1,110.8833,C68,Cherbourg,C68
+583,Not Survived,2nd,"Downton, Mr. William James",male,54.0,0,0,26.0,,Southampton,C85
+584,Not Survived,1st,"Ross, Mr. John Hugo",male,36.0,0,0,40.125,A10,Cherbourg,A10
+585,Not Survived,3rd,"Paulner, Mr. Uscher",male,28.0,0,0,8.7125,,Cherbourg,B28
+586,Survived,1st,"Taussig, Miss. Ruth",female,18.0,0,2,79.65,E68,Southampton,E68
+587,Not Survived,2nd,"Jarvis, Mr. John Denzil",male,47.0,0,0,15.0,,Southampton,E24
+588,Survived,1st,"Frolicher-Stehli, Mr. Maxmillian",male,60.0,1,1,79.2,B41,Cherbourg,B41
+589,Not Survived,3rd,"Gilinski, Mr. Eliezer",male,22.0,0,0,8.05,,Southampton,D10
+590,Not Survived,3rd,"Murdlin, Mr. Joseph",male,28.0,0,0,8.05,,Southampton,A5
+591,Not Survived,3rd,"Rintamaki, Mr. Matti",male,35.0,0,0,7.125,,Southampton,F33
+592,Survived,1st,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,1,0,78.2667,D20,Cherbourg,D20
+593,Not Survived,3rd,"Elsbury, Mr. William James",male,47.0,0,0,7.25,,Southampton,G6
+594,Not Survived,3rd,"Bourke, Miss. Mary",female,28.0,0,2,7.75,,Queenstown,B57
+595,Not Survived,2nd,"Chapman, Mr. John Henry",male,37.0,1,0,26.0,,Southampton,C123
+596,Not Survived,3rd,"Van Impe, Mr. Jean Baptiste",male,36.0,1,1,24.15,,Southampton,E46
+597,Survived,2nd,"Leitch, Miss. Jessie Wills",female,28.0,0,0,33.0,,Southampton,C85
+598,Not Survived,3rd,"Johnson, Mr. Alfred",male,49.0,0,0,0.0,,Southampton,B28
+599,Not Survived,3rd,"Boulos, Mr. Hanna",male,28.0,0,0,7.225,,Cherbourg,E24
+600,Survived,1st,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,1,0,56.9292,A20,Cherbourg,A20
+601,Survived,2nd,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24.0,2,1,27.0,,Southampton,D10
+602,Not Survived,3rd,"Slabenoff, Mr. Petco",male,28.0,0,0,7.8958,,Southampton,A5
+603,Not Survived,1st,"Harrington, Mr. Charles H",male,28.0,0,0,42.4,,Southampton,F33
+604,Not Survived,3rd,"Torber, Mr. Ernst William",male,44.0,0,0,8.05,,Southampton,G6
+605,Survived,1st,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,0,0,26.55,,Cherbourg,B57
+606,Not Survived,3rd,"Lindell, Mr. Edvard Bengtsson",male,36.0,1,0,15.55,,Southampton,C123
+607,Not Survived,3rd,"Karaic, Mr. Milan",male,30.0,0,0,7.8958,,Southampton,E46
+608,Survived,1st,"Daniel, Mr. Robert Williams",male,27.0,0,0,30.5,,Southampton,C85
+609,Survived,2nd,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22.0,1,2,41.5792,,Cherbourg,B28
+610,Survived,1st,"Shutes, Miss. Elizabeth W",female,40.0,0,0,153.4625,C125,Southampton,C125
+611,Not Survived,3rd,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39.0,1,5,31.275,,Southampton,E24
+612,Not Survived,3rd,"Jardin, Mr. Jose Neto",male,28.0,0,0,7.05,,Southampton,D10
+613,Survived,3rd,"Murphy, Miss. Margaret Jane",female,28.0,1,0,15.5,,Queenstown,A5
+614,Not Survived,3rd,"Horgan, Mr. John",male,28.0,0,0,7.75,,Queenstown,F33
+615,Not Survived,3rd,"Brocklebank, Mr. William Alfred",male,35.0,0,0,8.05,,Southampton,G6
+616,Survived,2nd,"Herman, Miss. Alice",female,24.0,1,2,65.0,,Southampton,B57
+617,Not Survived,3rd,"Danbom, Mr. Ernst Gilbert",male,34.0,1,1,14.4,,Southampton,C123
+618,Not Survived,3rd,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26.0,1,0,16.1,,Southampton,E46
+619,Survived,2nd,"Becker, Miss. Marion Louise",female,4.0,2,1,39.0,F4,Southampton,F4
+620,Not Survived,2nd,"Gavey, Mr. Lawrence",male,26.0,0,0,10.5,,Southampton,C85
+621,Not Survived,3rd,"Yasbeck, Mr. Antoni",male,27.0,1,0,14.4542,,Cherbourg,B28
+622,Survived,1st,"Kimball, Mr. Edwin Nelson Jr",male,42.0,1,0,52.5542,D19,Southampton,D19
+623,Survived,3rd,"Nakid, Mr. Sahid",male,20.0,1,1,15.7417,,Cherbourg,E24
+624,Not Survived,3rd,"Hansen, Mr. Henry Damsgaard",male,21.0,0,0,7.8542,,Southampton,D10
+625,Not Survived,3rd,"Bowen, Mr. David John ""Dai""",male,21.0,0,0,16.1,,Southampton,A5
+626,Not Survived,1st,"Sutton, Mr. Frederick",male,61.0,0,0,32.3208,D50,Southampton,D50
+627,Not Survived,2nd,"Kirkland, Rev. Charles Leonard",male,57.0,0,0,12.35,,Queenstown,F33
+628,Survived,1st,"Longley, Miss. Gretchen Fiske",female,21.0,0,0,77.9583,D9,Southampton,D9
+629,Not Survived,3rd,"Bostandyeff, Mr. Guentcho",male,26.0,0,0,7.8958,,Southampton,G6
+630,Not Survived,3rd,"O'Connell, Mr. Patrick D",male,28.0,0,0,7.7333,,Queenstown,B57
+631,Survived,1st,"Barkworth, Mr. Algernon Henry Wilson",male,80.0,0,0,30.0,A23,Southampton,A23
+632,Not Survived,3rd,"Lundahl, Mr. Johan Svensson",male,51.0,0,0,7.0542,,Southampton,C123
+633,Survived,1st,"Stahelin-Maeglin, Dr. Max",male,32.0,0,0,30.5,B50,Cherbourg,B50
+634,Not Survived,1st,"Parr, Mr. William Henry Marsh",male,28.0,0,0,0.0,,Southampton,E46
+635,Not Survived,3rd,"Skoog, Miss. Mabel",female,9.0,3,2,27.9,,Southampton,C85
+636,Survived,2nd,"Davis, Miss. Mary",female,28.0,0,0,13.0,,Southampton,B28
+637,Not Survived,3rd,"Leinonen, Mr. Antti Gustaf",male,32.0,0,0,7.925,,Southampton,E24
+638,Not Survived,2nd,"Collyer, Mr. Harvey",male,31.0,1,1,26.25,,Southampton,D10
+639,Not Survived,3rd,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41.0,0,5,39.6875,,Southampton,A5
+640,Not Survived,3rd,"Thorneycroft, Mr. Percival",male,28.0,1,0,16.1,,Southampton,F33
+641,Not Survived,3rd,"Jensen, Mr. Hans Peder",male,20.0,0,0,7.8542,,Southampton,G6
+642,Survived,1st,"Sagesser, Mlle. Emma",female,24.0,0,0,69.3,B35,Cherbourg,B35
+643,Not Survived,3rd,"Skoog, Miss. Margit Elizabeth",female,2.0,3,2,27.9,,Southampton,B57
+644,Survived,3rd,"Foo, Mr. Choong",male,28.0,0,0,56.4958,,Southampton,C123
+645,Survived,3rd,"Baclini, Miss. Eugenie",female,0.75,2,1,19.2583,,Cherbourg,E46
+646,Survived,1st,"Harper, Mr. Henry Sleeper",male,48.0,1,0,76.7292,D33,Cherbourg,D33
+647,Not Survived,3rd,"Cor, Mr. Liudevit",male,19.0,0,0,7.8958,,Southampton,C85
+648,Survived,1st,"Simonius-Blumer, Col. Oberst Alfons",male,56.0,0,0,35.5,A26,Cherbourg,A26
+649,Not Survived,3rd,"Willey, Mr. Edward",male,28.0,0,0,7.55,,Southampton,B28
+650,Survived,3rd,"Stanley, Miss. Amy Zillah Elsie",female,23.0,0,0,7.55,,Southampton,E24
+651,Not Survived,3rd,"Mitkoff, Mr. Mito",male,28.0,0,0,7.8958,,Southampton,D10
+652,Survived,2nd,"Doling, Miss. Elsie",female,18.0,0,1,23.0,,Southampton,A5
+653,Not Survived,3rd,"Kalvik, Mr. Johannes Halvorsen",male,21.0,0,0,8.4333,,Southampton,F33
+654,Survived,3rd,"O'Leary, Miss. Hanora ""Norah""",female,28.0,0,0,7.8292,,Queenstown,G6
+655,Not Survived,3rd,"Hegarty, Miss. Hanora ""Nora""",female,18.0,0,0,6.75,,Queenstown,B57
+656,Not Survived,2nd,"Hickman, Mr. Leonard Mark",male,24.0,2,0,73.5,,Southampton,C123
+657,Not Survived,3rd,"Radeff, Mr. Alexander",male,28.0,0,0,7.8958,,Southampton,E46
+658,Not Survived,3rd,"Bourke, Mrs. John (Catherine)",female,32.0,1,1,15.5,,Queenstown,C85
+659,Not Survived,2nd,"Eitemiller, Mr. George Floyd",male,23.0,0,0,13.0,,Southampton,B28
+660,Not Survived,1st,"Newell, Mr. Arthur Webster",male,58.0,0,2,113.275,D48,Cherbourg,D48
+661,Survived,1st,"Frauenthal, Dr. Henry William",male,50.0,2,0,133.65,,Southampton,E24
+662,Not Survived,3rd,"Badt, Mr. Mohamed",male,40.0,0,0,7.225,,Cherbourg,D10
+663,Not Survived,1st,"Colley, Mr. Edward Pomeroy",male,47.0,0,0,25.5875,E58,Southampton,E58
+664,Not Survived,3rd,"Coleff, Mr. Peju",male,36.0,0,0,7.4958,,Southampton,A5
+665,Survived,3rd,"Lindqvist, Mr. Eino William",male,20.0,1,0,7.925,,Southampton,F33
+666,Not Survived,2nd,"Hickman, Mr. Lewis",male,32.0,2,0,73.5,,Southampton,G6
+667,Not Survived,2nd,"Butler, Mr. Reginald Fenton",male,25.0,0,0,13.0,,Southampton,B57
+668,Not Survived,3rd,"Rommetvedt, Mr. Knud Paust",male,28.0,0,0,7.775,,Southampton,C123
+669,Not Survived,3rd,"Cook, Mr. Jacob",male,43.0,0,0,8.05,,Southampton,E46
+670,Survived,1st,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,28.0,1,0,52.0,C126,Southampton,C126
+671,Survived,2nd,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0,1,1,39.0,,Southampton,C85
+672,Not Survived,1st,"Davidson, Mr. Thornton",male,31.0,1,0,52.0,B71,Southampton,B71
+673,Not Survived,2nd,"Mitchell, Mr. Henry Michael",male,70.0,0,0,10.5,,Southampton,B28
+674,Survived,2nd,"Wilhelms, Mr. Charles",male,31.0,0,0,13.0,,Southampton,E24
+675,Not Survived,2nd,"Watson, Mr. Ennis Hastings",male,28.0,0,0,0.0,,Southampton,D10
+676,Not Survived,3rd,"Edvardsson, Mr. Gustaf Hjalmar",male,18.0,0,0,7.775,,Southampton,A5
+677,Not Survived,3rd,"Sawyer, Mr. Frederick Charles",male,24.5,0,0,8.05,,Southampton,F33
+678,Survived,3rd,"Turja, Miss. Anna Sofia",female,18.0,0,0,9.8417,,Southampton,G6
+679,Not Survived,3rd,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43.0,1,6,46.9,,Southampton,B57
+680,Survived,1st,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,0,1,512.3292,B51 B53 B55,Cherbourg,B51 B53 B55
+681,Not Survived,3rd,"Peters, Miss. Katie",female,28.0,0,0,8.1375,,Queenstown,C123
+682,Survived,1st,"Hassab, Mr. Hammad",male,27.0,0,0,76.7292,D49,Cherbourg,D49
+683,Not Survived,3rd,"Olsvigen, Mr. Thor Anderson",male,20.0,0,0,9.225,,Southampton,E46
+684,Not Survived,3rd,"Goodwin, Mr. Charles Edward",male,14.0,5,2,46.9,,Southampton,C85
+685,Not Survived,2nd,"Brown, Mr. Thomas William Solomon",male,60.0,1,1,39.0,,Southampton,B28
+686,Not Survived,2nd,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0,1,2,41.5792,,Cherbourg,E24
+687,Not Survived,3rd,"Panula, Mr. Jaako Arnold",male,14.0,4,1,39.6875,,Southampton,D10
+688,Not Survived,3rd,"Dakic, Mr. Branko",male,19.0,0,0,10.1708,,Southampton,A5
+689,Not Survived,3rd,"Fischer, Mr. Eberhard Thelander",male,18.0,0,0,7.7958,,Southampton,F33
+690,Survived,1st,"Madill, Miss. Georgette Alexandra",female,15.0,0,1,211.3375,B5,Southampton,B5
+691,Survived,1st,"Dick, Mr. Albert Adrian",male,31.0,1,0,57.0,B20,Southampton,B20
+692,Survived,3rd,"Karun, Miss. Manca",female,4.0,0,1,13.4167,,Cherbourg,G6
+693,Survived,3rd,"Lam, Mr. Ali",male,28.0,0,0,56.4958,,Southampton,B57
+694,Not Survived,3rd,"Saad, Mr. Khalil",male,25.0,0,0,7.225,,Cherbourg,C123
+695,Not Survived,1st,"Weir, Col. John",male,60.0,0,0,26.55,,Southampton,E46
+696,Not Survived,2nd,"Chapman, Mr. Charles Henry",male,52.0,0,0,13.5,,Southampton,C85
+697,Not Survived,3rd,"Kelly, Mr. James",male,44.0,0,0,8.05,,Southampton,B28
+698,Survived,3rd,"Mullens, Miss. Katherine ""Katie""",female,28.0,0,0,7.7333,,Queenstown,E24
+699,Not Survived,1st,"Thayer, Mr. John Borland",male,49.0,1,1,110.8833,C68,Cherbourg,C68
+700,Not Survived,3rd,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42.0,0,0,7.65,F G63,Southampton,F G63
+701,Survived,1st,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0,1,0,227.525,C62 C64,Cherbourg,C62 C64
+702,Survived,1st,"Silverthorne, Mr. Spencer Victor",male,35.0,0,0,26.2875,E24,Southampton,E24
+703,Not Survived,3rd,"Barbara, Miss. Saiide",female,18.0,0,1,14.4542,,Cherbourg,D10
+704,Not Survived,3rd,"Gallagher, Mr. Martin",male,25.0,0,0,7.7417,,Queenstown,A5
+705,Not Survived,3rd,"Hansen, Mr. Henrik Juul",male,26.0,1,0,7.8542,,Southampton,F33
+706,Not Survived,2nd,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39.0,0,0,26.0,,Southampton,G6
+707,Survived,2nd,"Kelly, Mrs. Florence ""Fannie""",female,45.0,0,0,13.5,,Southampton,B57
+708,Survived,1st,"Calderhead, Mr. Edward Pennington",male,42.0,0,0,26.2875,E24,Southampton,E24
+709,Survived,1st,"Cleaver, Miss. Alice",female,22.0,0,0,151.55,,Southampton,C123
+710,Survived,3rd,"Moubarek, Master. Halim Gonios (""William George"")",male,28.0,1,1,15.2458,,Cherbourg,E46
+711,Survived,1st,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,0,0,49.5042,C90,Cherbourg,C90
+712,Not Survived,1st,"Klaber, Mr. Herman",male,28.0,0,0,26.55,C124,Southampton,C124
+713,Survived,1st,"Taylor, Mr. Elmer Zebley",male,48.0,1,0,52.0,C126,Southampton,C126
+714,Not Survived,3rd,"Larsson, Mr. August Viktor",male,29.0,0,0,9.4833,,Southampton,C85
+715,Not Survived,2nd,"Greenberg, Mr. Samuel",male,52.0,0,0,13.0,,Southampton,B28
+716,Not Survived,3rd,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19.0,0,0,7.65,F G73,Southampton,F G73
+717,Survived,1st,"Endres, Miss. Caroline Louise",female,38.0,0,0,227.525,C45,Cherbourg,C45
+718,Survived,2nd,"Troutt, Miss. Edwina Celia ""Winnie""",female,27.0,0,0,10.5,E101,Southampton,E101
+719,Not Survived,3rd,"McEvoy, Mr. Michael",male,28.0,0,0,15.5,,Queenstown,E24
+720,Not Survived,3rd,"Johnson, Mr. Malkolm Joackim",male,33.0,0,0,7.775,,Southampton,D10
+721,Survived,2nd,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,0,1,33.0,,Southampton,A5
+722,Not Survived,3rd,"Jensen, Mr. Svend Lauritz",male,17.0,1,0,7.0542,,Southampton,F33
+723,Not Survived,2nd,"Gillespie, Mr. William Henry",male,34.0,0,0,13.0,,Southampton,G6
+724,Not Survived,2nd,"Hodges, Mr. Henry Price",male,50.0,0,0,13.0,,Southampton,B57
+725,Survived,1st,"Chambers, Mr. Norman Campbell",male,27.0,1,0,53.1,E8,Southampton,E8
+726,Not Survived,3rd,"Oreskovic, Mr. Luka",male,20.0,0,0,8.6625,,Southampton,C123
+727,Survived,2nd,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30.0,3,0,21.0,,Southampton,E46
+728,Survived,3rd,"Mannion, Miss. Margareth",female,28.0,0,0,7.7375,,Queenstown,C85
+729,Not Survived,2nd,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25.0,1,0,26.0,,Southampton,B28
+730,Not Survived,3rd,"Ilmakangas, Miss. Pieta Sofia",female,25.0,1,0,7.925,,Southampton,E24
+731,Survived,1st,"Allen, Miss. Elisabeth Walton",female,29.0,0,0,211.3375,B5,Southampton,B5
+732,Not Survived,3rd,"Hassan, Mr. Houssein G N",male,11.0,0,0,18.7875,,Cherbourg,D10
+733,Not Survived,2nd,"Knight, Mr. Robert J",male,28.0,0,0,0.0,,Southampton,A5
+734,Not Survived,2nd,"Berriman, Mr. William John",male,23.0,0,0,13.0,,Southampton,F33
+735,Not Survived,2nd,"Troupiansky, Mr. Moses Aaron",male,23.0,0,0,13.0,,Southampton,G6
+736,Not Survived,3rd,"Williams, Mr. Leslie",male,28.5,0,0,16.1,,Southampton,B57
+737,Not Survived,3rd,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48.0,1,3,34.375,,Southampton,C123
+738,Survived,1st,"Lesurer, Mr. Gustave J",male,35.0,0,0,512.3292,B101,Cherbourg,B101
+739,Not Survived,3rd,"Ivanoff, Mr. Kanio",male,28.0,0,0,7.8958,,Southampton,E46
+740,Not Survived,3rd,"Nankoff, Mr. Minko",male,28.0,0,0,7.8958,,Southampton,C85
+741,Survived,1st,"Hawksford, Mr. Walter James",male,28.0,0,0,30.0,D45,Southampton,D45
+742,Not Survived,1st,"Cavendish, Mr. Tyrell William",male,36.0,1,0,78.85,C46,Southampton,C46
+743,Survived,1st,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,2,2,262.375,B57 B59 B63 B66,Cherbourg,B57 B59 B63 B66
+744,Not Survived,3rd,"McNamee, Mr. Neal",male,24.0,1,0,16.1,,Southampton,B28
+745,Survived,3rd,"Stranden, Mr. Juho",male,31.0,0,0,7.925,,Southampton,E24
+746,Not Survived,1st,"Crosby, Capt. Edward Gifford",male,70.0,1,1,71.0,B22,Southampton,B22
+747,Not Survived,3rd,"Abbott, Mr. Rossmore Edward",male,16.0,1,1,20.25,,Southampton,D10
+748,Survived,2nd,"Sinkkonen, Miss. Anna",female,30.0,0,0,13.0,,Southampton,A5
+749,Not Survived,1st,"Marvin, Mr. Daniel Warner",male,19.0,1,0,53.1,D30,Southampton,D30
+750,Not Survived,3rd,"Connaghton, Mr. Michael",male,31.0,0,0,7.75,,Queenstown,F33
+751,Survived,2nd,"Wells, Miss. Joan",female,4.0,1,1,23.0,,Southampton,G6
+752,Survived,3rd,"Moor, Master. Meier",male,6.0,0,1,12.475,E121,Southampton,E121
+753,Not Survived,3rd,"Vande Velde, Mr. Johannes Joseph",male,33.0,0,0,9.5,,Southampton,B57
+754,Not Survived,3rd,"Jonkoff, Mr. Lalio",male,23.0,0,0,7.8958,,Southampton,C123
+755,Survived,2nd,"Herman, Mrs. Samuel (Jane Laver)",female,48.0,1,2,65.0,,Southampton,E46
+756,Survived,2nd,"Hamalainen, Master. Viljo",male,0.67,1,1,14.5,,Southampton,C85
+757,Not Survived,3rd,"Carlsson, Mr. August Sigfrid",male,28.0,0,0,7.7958,,Southampton,B28
+758,Not Survived,2nd,"Bailey, Mr. Percy Andrew",male,18.0,0,0,11.5,,Southampton,E24
+759,Not Survived,3rd,"Theobald, Mr. Thomas Leonard",male,34.0,0,0,8.05,,Southampton,D10
+760,Survived,1st,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,0,0,86.5,B77,Southampton,B77
+761,Not Survived,3rd,"Garfirth, Mr. John",male,28.0,0,0,14.5,,Southampton,A5
+762,Not Survived,3rd,"Nirva, Mr. Iisakki Antino Aijo",male,41.0,0,0,7.125,,Southampton,F33
+763,Survived,3rd,"Barah, Mr. Hanna Assi",male,20.0,0,0,7.2292,,Cherbourg,G6
+764,Survived,1st,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,1,2,120.0,B96 B98,Southampton,B96 B98
+765,Not Survived,3rd,"Eklund, Mr. Hans Linus",male,16.0,0,0,7.775,,Southampton,B57
+766,Survived,1st,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0,1,0,77.9583,D11,Southampton,D11
+767,Not Survived,1st,"Brewe, Dr. Arthur Jackson",male,28.0,0,0,39.6,,Cherbourg,C123
+768,Not Survived,3rd,"Mangan, Miss. Mary",female,30.5,0,0,7.75,,Queenstown,E46
+769,Not Survived,3rd,"Moran, Mr. Daniel J",male,28.0,1,0,24.15,,Queenstown,C85
+770,Not Survived,3rd,"Gronnestad, Mr. Daniel Danielsen",male,32.0,0,0,8.3625,,Southampton,B28
+771,Not Survived,3rd,"Lievens, Mr. Rene Aime",male,24.0,0,0,9.5,,Southampton,E24
+772,Not Survived,3rd,"Jensen, Mr. Niels Peder",male,48.0,0,0,7.8542,,Southampton,D10
+773,Not Survived,2nd,"Mack, Mrs. (Mary)",female,57.0,0,0,10.5,E77,Southampton,E77
+774,Not Survived,3rd,"Elias, Mr. Dibo",male,28.0,0,0,7.225,,Cherbourg,A5
+775,Survived,2nd,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54.0,1,3,23.0,,Southampton,F33
+776,Not Survived,3rd,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18.0,0,0,7.75,,Southampton,G6
+777,Not Survived,3rd,"Tobin, Mr. Roger",male,28.0,0,0,7.75,F38,Queenstown,F38
+778,Survived,3rd,"Emanuel, Miss. Virginia Ethel",female,5.0,0,0,12.475,,Southampton,B57
+779,Not Survived,3rd,"Kilgannon, Mr. Thomas J",male,28.0,0,0,7.7375,,Queenstown,C123
+780,Survived,1st,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43.0,0,1,211.3375,B3,Southampton,B3
+781,Survived,3rd,"Ayoub, Miss. Banoura",female,13.0,0,0,7.2292,,Cherbourg,E46
+782,Survived,1st,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,1,0,57.0,B20,Southampton,B20
+783,Not Survived,1st,"Long, Mr. Milton Clyde",male,29.0,0,0,30.0,D6,Southampton,D6
+784,Not Survived,3rd,"Johnston, Mr. Andrew G",male,28.0,1,2,23.45,,Southampton,C85
+785,Not Survived,3rd,"Ali, Mr. William",male,25.0,0,0,7.05,,Southampton,B28
+786,Not Survived,3rd,"Harmer, Mr. Abraham (David Lishin)",male,25.0,0,0,7.25,,Southampton,E24
+787,Survived,3rd,"Sjoblom, Miss. Anna Sofia",female,18.0,0,0,7.4958,,Southampton,D10
+788,Not Survived,3rd,"Rice, Master. George Hugh",male,8.0,4,1,29.125,,Queenstown,A5
+789,Survived,3rd,"Dean, Master. Bertram Vere",male,1.0,1,2,20.575,,Southampton,F33
+790,Not Survived,1st,"Guggenheim, Mr. Benjamin",male,46.0,0,0,79.2,B82 B84,Cherbourg,B82 B84
+791,Not Survived,3rd,"Keane, Mr. Andrew ""Andy""",male,28.0,0,0,7.75,,Queenstown,G6
+792,Not Survived,2nd,"Gaskell, Mr. Alfred",male,16.0,0,0,26.0,,Southampton,B57
+793,Not Survived,3rd,"Sage, Miss. Stella Anna",female,28.0,8,2,69.55,,Southampton,C123
+794,Not Survived,1st,"Hoyt, Mr. William Fisher",male,28.0,0,0,30.6958,,Cherbourg,E46
+795,Not Survived,3rd,"Dantcheff, Mr. Ristiu",male,25.0,0,0,7.8958,,Southampton,C85
+796,Not Survived,2nd,"Otter, Mr. Richard",male,39.0,0,0,13.0,,Southampton,B28
+797,Survived,1st,"Leader, Dr. Alice (Farnham)",female,49.0,0,0,25.9292,D17,Southampton,D17
+798,Survived,3rd,"Osman, Mrs. Mara",female,31.0,0,0,8.6833,,Southampton,E24
+799,Not Survived,3rd,"Ibrahim Shawah, Mr. Yousseff",male,30.0,0,0,7.2292,,Cherbourg,D10
+800,Not Survived,3rd,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30.0,1,1,24.15,,Southampton,A5
+801,Not Survived,2nd,"Ponesell, Mr. Martin",male,34.0,0,0,13.0,,Southampton,F33
+802,Survived,2nd,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0,1,1,26.25,,Southampton,G6
+803,Survived,1st,"Carter, Master. William Thornton II",male,11.0,1,2,120.0,B96 B98,Southampton,B96 B98
+804,Survived,3rd,"Thomas, Master. Assad Alexander",male,0.42,0,1,8.5167,,Cherbourg,B57
+805,Survived,3rd,"Hedman, Mr. Oskar Arvid",male,27.0,0,0,6.975,,Southampton,C123
+806,Not Survived,3rd,"Johansson, Mr. Karl Johan",male,31.0,0,0,7.775,,Southampton,E46
+807,Not Survived,1st,"Andrews, Mr. Thomas Jr",male,39.0,0,0,0.0,A36,Southampton,A36
+808,Not Survived,3rd,"Pettersson, Miss. Ellen Natalia",female,18.0,0,0,7.775,,Southampton,C85
+809,Not Survived,2nd,"Meyer, Mr. August",male,39.0,0,0,13.0,,Southampton,B28
+810,Survived,1st,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0,1,0,53.1,E8,Southampton,E8
+811,Not Survived,3rd,"Alexander, Mr. William",male,26.0,0,0,7.8875,,Southampton,E24
+812,Not Survived,3rd,"Lester, Mr. James",male,39.0,0,0,24.15,,Southampton,D10
+813,Not Survived,2nd,"Slemen, Mr. Richard James",male,35.0,0,0,10.5,,Southampton,A5
+814,Not Survived,3rd,"Andersson, Miss. Ebba Iris Alfrida",female,6.0,4,2,31.275,,Southampton,F33
+815,Not Survived,3rd,"Tomlin, Mr. Ernest Portage",male,30.5,0,0,8.05,,Southampton,G6
+816,Not Survived,1st,"Fry, Mr. Richard",male,28.0,0,0,0.0,B102,Southampton,B102
+817,Not Survived,3rd,"Heininen, Miss. Wendla Maria",female,23.0,0,0,7.925,,Southampton,B57
+818,Not Survived,2nd,"Mallet, Mr. Albert",male,31.0,1,1,37.0042,,Cherbourg,C123
+819,Not Survived,3rd,"Holm, Mr. John Fredrik Alexander",male,43.0,0,0,6.45,,Southampton,E46
+820,Not Survived,3rd,"Skoog, Master. Karl Thorsten",male,10.0,3,2,27.9,,Southampton,C85
+821,Survived,1st,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,1,1,93.5,B69,Southampton,B69
+822,Survived,3rd,"Lulic, Mr. Nikola",male,27.0,0,0,8.6625,,Southampton,B28
+823,Not Survived,1st,"Reuchlin, Jonkheer. John George",male,38.0,0,0,0.0,,Southampton,E24
+824,Survived,3rd,"Moor, Mrs. (Beila)",female,27.0,0,1,12.475,E121,Southampton,E121
+825,Not Survived,3rd,"Panula, Master. Urho Abraham",male,2.0,4,1,39.6875,,Southampton,D10
+826,Not Survived,3rd,"Flynn, Mr. John",male,28.0,0,0,6.95,,Queenstown,A5
+827,Not Survived,3rd,"Lam, Mr. Len",male,28.0,0,0,56.4958,,Southampton,F33
+828,Survived,2nd,"Mallet, Master. Andre",male,1.0,0,2,37.0042,,Cherbourg,G6
+829,Survived,3rd,"McCormack, Mr. Thomas Joseph",male,28.0,0,0,7.75,,Queenstown,B57
+830,Survived,1st,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0,0,0,80.0,B28,Southampton,B28
+831,Survived,3rd,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,1,0,14.4542,,Cherbourg,C123
+832,Survived,2nd,"Richards, Master. George Sibley",male,0.83,1,1,18.75,,Southampton,E46
+833,Not Survived,3rd,"Saad, Mr. Amin",male,28.0,0,0,7.2292,,Cherbourg,C85
+834,Not Survived,3rd,"Augustsson, Mr. Albert",male,23.0,0,0,7.8542,,Southampton,B28
+835,Not Survived,3rd,"Allum, Mr. Owen George",male,18.0,0,0,8.3,,Southampton,E24
+836,Survived,1st,"Compton, Miss. Sara Rebecca",female,39.0,1,1,83.1583,E49,Cherbourg,E49
+837,Not Survived,3rd,"Pasic, Mr. Jakob",male,21.0,0,0,8.6625,,Southampton,D10
+838,Not Survived,3rd,"Sirota, Mr. Maurice",male,28.0,0,0,8.05,,Southampton,A5
+839,Survived,3rd,"Chip, Mr. Chang",male,32.0,0,0,56.4958,,Southampton,F33
+840,Survived,1st,"Marechal, Mr. Pierre",male,28.0,0,0,29.7,C47,Cherbourg,C47
+841,Not Survived,3rd,"Alhomaki, Mr. Ilmari Rudolf",male,20.0,0,0,7.925,,Southampton,G6
+842,Not Survived,2nd,"Mudd, Mr. Thomas Charles",male,16.0,0,0,10.5,,Southampton,B57
+843,Survived,1st,"Serepeca, Miss. Augusta",female,30.0,0,0,31.0,,Cherbourg,C123
+844,Not Survived,3rd,"Lemberopolous, Mr. Peter L",male,34.5,0,0,6.4375,,Cherbourg,E46
+845,Not Survived,3rd,"Culumovic, Mr. Jeso",male,17.0,0,0,8.6625,,Southampton,C85
+846,Not Survived,3rd,"Abbing, Mr. Anthony",male,42.0,0,0,7.55,,Southampton,B28
+847,Not Survived,3rd,"Sage, Mr. Douglas Bullen",male,28.0,8,2,69.55,,Southampton,E24
+848,Not Survived,3rd,"Markoff, Mr. Marin",male,35.0,0,0,7.8958,,Cherbourg,D10
+849,Not Survived,2nd,"Harper, Rev. John",male,28.0,0,1,33.0,,Southampton,A5
+850,Survived,1st,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,28.0,1,0,89.1042,C92,Cherbourg,C92
+851,Not Survived,3rd,"Andersson, Master. Sigvard Harald Elias",male,4.0,4,2,31.275,,Southampton,F33
+852,Not Survived,3rd,"Svensson, Mr. Johan",male,74.0,0,0,7.775,,Southampton,G6
+853,Not Survived,3rd,"Boulos, Miss. Nourelain",female,9.0,1,1,15.2458,,Cherbourg,B57
+854,Survived,1st,"Lines, Miss. Mary Conover",female,16.0,0,1,39.4,D28,Southampton,D28
+855,Not Survived,2nd,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44.0,1,0,26.0,,Southampton,C123
+856,Survived,3rd,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,0,1,9.35,,Southampton,E46
+857,Survived,1st,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0,1,1,164.8667,,Southampton,C85
+858,Survived,1st,"Daly, Mr. Peter Denis ",male,51.0,0,0,26.55,E17,Southampton,E17
+859,Survived,3rd,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24.0,0,3,19.2583,,Cherbourg,B28
+860,Not Survived,3rd,"Razi, Mr. Raihed",male,28.0,0,0,7.2292,,Cherbourg,E24
+861,Not Survived,3rd,"Hansen, Mr. Claus Peter",male,41.0,2,0,14.1083,,Southampton,D10
+862,Not Survived,2nd,"Giles, Mr. Frederick Edward",male,21.0,1,0,11.5,,Southampton,A5
+863,Survived,1st,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,0,0,25.9292,D17,Southampton,D17
+864,Not Survived,3rd,"Sage, Miss. Dorothy Edith ""Dolly""",female,28.0,8,2,69.55,,Southampton,F33
+865,Not Survived,2nd,"Gill, Mr. John William",male,24.0,0,0,13.0,,Southampton,G6
+866,Survived,2nd,"Bystrom, Mrs. (Karolina)",female,42.0,0,0,13.0,,Southampton,B57
+867,Survived,2nd,"Duran y More, Miss. Asuncion",female,27.0,1,0,13.8583,,Cherbourg,C123
+868,Not Survived,1st,"Roebling, Mr. Washington Augustus II",male,31.0,0,0,50.4958,A24,Southampton,A24
+869,Not Survived,3rd,"van Melkebeke, Mr. Philemon",male,28.0,0,0,9.5,,Southampton,E46
+870,Survived,3rd,"Johnson, Master. Harold Theodor",male,4.0,1,1,11.1333,,Southampton,C85
+871,Not Survived,3rd,"Balkic, Mr. Cerin",male,26.0,0,0,7.8958,,Southampton,B28
+872,Survived,1st,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0,1,1,52.5542,D35,Southampton,D35
+873,Not Survived,1st,"Carlsson, Mr. Frans Olof",male,33.0,0,0,5.0,B51 B53 B55,Southampton,B51 B53 B55
+874,Not Survived,3rd,"Vander Cruyssen, Mr. Victor",male,47.0,0,0,9.0,,Southampton,E24
+875,Survived,2nd,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28.0,1,0,24.0,,Cherbourg,D10
+876,Survived,3rd,"Najib, Miss. Adele Kiamie ""Jane""",female,15.0,0,0,7.225,,Cherbourg,A5
+877,Not Survived,3rd,"Gustafsson, Mr. Alfred Ossian",male,20.0,0,0,9.8458,,Southampton,F33
+878,Not Survived,3rd,"Petroff, Mr. Nedelio",male,19.0,0,0,7.8958,,Southampton,G6
+879,Not Survived,3rd,"Laleff, Mr. Kristo",male,28.0,0,0,7.8958,,Southampton,B57
+880,Survived,1st,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,0,1,83.1583,C50,Cherbourg,C50
+881,Survived,2nd,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25.0,0,1,26.0,,Southampton,C123
+882,Not Survived,3rd,"Markun, Mr. Johann",male,33.0,0,0,7.8958,,Southampton,E46
+883,Not Survived,3rd,"Dahlberg, Miss. Gerda Ulrika",female,22.0,0,0,10.5167,,Southampton,C85
+884,Not Survived,2nd,"Banfield, Mr. Frederick James",male,28.0,0,0,10.5,,Southampton,B28
+885,Not Survived,3rd,"Sutehall, Mr. Henry Jr",male,25.0,0,0,7.05,,Southampton,E24
+886,Not Survived,3rd,"Rice, Mrs. William (Margaret Norton)",female,39.0,0,5,29.125,,Queenstown,D10
+887,Not Survived,2nd,"Montvila, Rev. Juozas",male,27.0,0,0,13.0,,Southampton,A5
+888,Survived,1st,"Graham, Miss. Margaret Edith",female,19.0,0,0,30.0,B42,Southampton,B42
+889,Not Survived,3rd,"Johnston, Miss. Catherine Helen ""Carrie""",female,28.0,1,2,23.45,,Southampton,F33
+890,Survived,1st,"Behr, Mr. Karl Howell",male,26.0,0,0,30.0,C148,Cherbourg,C148
+891,Not Survived,3rd,"Dooley, Mr. Patrick",male,32.0,0,0,7.75,,Queenstown,G6
