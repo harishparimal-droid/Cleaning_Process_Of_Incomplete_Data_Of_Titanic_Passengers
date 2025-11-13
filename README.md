@@ -44,6 +44,7 @@ Matplotlib and Seaborn: These libraries are primarily for data visualization. Si
 Using only pandas keeps the code simple, readable, and directly focused on the core preprocessing tasks, avoiding unnecessary dependencies or complexity.
 
 Process route
+
 We started with the raw Titanic dataset (Titanic-Dataset.csv) containing passenger information. Using Python and pandas, the data was cleaned and prepared by renaming columns, converting codes to readable text (for survival, passenger class, and embarked town), filling missing ages and cabins, and removing unnecessary columns.
 
 The gender field was kept as "male" and "female" text for clarity. Passenger IDs were retained for identification.
